@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Ethically · V0</title>
+    <style>
+        :root {
+            font-family: 'Segoe UI', Roboto, Arial, sans-serif;
+            color: #1c2331;
+            background-color: #eef2f7;
+        }
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            margin: 0;
+            background-color: #eef2f7;
+        }
+        header {
+            background: linear-gradient(120deg, #003c7a, #005bb5);
+            color: #fff;
+            padding: 40px 20px;
+        }
+        header .wrapper {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        header h1 {
+            margin: 0 0 10px;
+            font-size: 2.3rem;
+        }
+        header p {
+            margin: 0;
+            line-height: 1.5;
+        }
+        main {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px 40px;
+        }
+        .search-box, .results .card, .directory {
+            background: #fff;
+            border-radius: 12px;
+            padding: 24px;
+            box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+        }
+        .search-box {
+            margin-bottom: 25px;
+        }
+        label {
+            font-weight: 600;
+        }
+        .search-controls {
+            display: flex;
+            gap: 12px;
+            margin: 12px 0 10px;
+        }
+        .search-controls input {
+            flex: 1;
+            padding: 12px 14px;
+            border-radius: 8px;
+            border: 1px solid #c9d3e0;
+            font-size: 1rem;
+        }
+        .search-controls button {
+            padding: 12px 20px;
+            border: none;
+            border-radius: 8px;
+            background-color: #005bb5;
+            color: #fff;
+            font-weight: 600;
+            cursor: pointer;
+        }
+        .search-controls button:hover {
+            background-color: #00478c;
+        }
+        .stats {
+            margin: 6px 0;
+            color: #4b5671;
+        }
+        .stats span {
+            font-weight: 700;
+        }
+        .directory-link {
+            display: inline-block;
+            margin-top: 4px;
+            color: #005bb5;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .directory-link:hover {
+            text-decoration: underline;
+        }
+        .results {
+            display: grid;
+            gap: 20px;
+        }
+        .results .placeholder {
+            color: #6b7280;
+            margin: 0;
+        }
+        .card header h3 {
+            margin: 0;
+            font-size: 1.4rem;
+        }
+        .card header p {
+            margin: 4px 0;
+            color: #475069;
+        }
+        .card p {
+            line-height: 1.5;
+        }
+        .card-links-title {
+            font-weight: 600;
+            margin-top: 12px;
+            margin-bottom: 6px;
+        }
+        .article-links {
+            padding-left: 18px;
+            margin: 0;
+        }
+        .article-links li {
+            margin-bottom: 4px;
+        }
+        .article-links a {
+            color: #005bb5;
+            text-decoration: none;
+        }
+        .article-links a:hover {
+            text-decoration: underline;
+        }
+        .directory {
+            margin-top: 30px;
+        }
+        .directory h2 {
+            margin-top: 0;
+        }
+        .directory ul {
+            list-style-position: inside;
+            padding-left: 0;
+            margin: 0;
+            color: #475069;
+        }
+        .directory li {
+            margin-bottom: 6px;
+        }
+        @media (max-width: 600px) {
+            .search-controls {
+                flex-direction: column;
+            }
+            .search-controls button {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="wrapper">
+            <p class="eyebrow">Prototype V0</p>
+            <h1>Shop Ethically</h1>
+            <p>Identifiez la maison mère d'une marque, ses controverses majeures et accédez rapidement aux sources.</p>
+        </div>
+    </header>
+
+    <main>
+        <section class="search-box">
+            <label for="brandInput">Rechercher une marque :</label>
+            <div class="search-controls">
+                <input id="brandInput" type="text" placeholder="Ex : NutriSnack, AquaPure..." autocomplete="off">
+                <button id="searchBtn" type="button">Rechercher</button>
+            </div>
+            <p class="stats"><span data-company-count>0</span> entreprises référencées</p>
+            <a class="directory-link" href="#annuaire">Voir l'annuaire complet →</a>
+        </section>
+
+        <section id="results" class="results">
+            <p class="placeholder">Entrez le nom d'une marque pour afficher son entreprise mère.</p>
+        </section>
+
+        <section id="annuaire" class="directory">
+            <h2>Annuaire des marques référencées</h2>
+            <ul data-directory></ul>
+        </section>
+    </main>
+
+    <script>
+        const catalog = [
+            {
+                brand: "NutriSnack",
+                parent: "AgroPlanet",
+                sector: "produits céréaliers et snacks",
+                summary: "Pointée du doigt pour l'utilisation d'huile de palme non certifiée et le manque de transparence sur la rémunération des cultivateurs de cacao.",
+                articles: [
+                    { label: "Rapport ONG Forêt Claire", url: "https://example.com/foret-claire" },
+                    { label: "Analyse Consom'acteurs", url: "https://example.com/consomacteurs" }
+                ]
+            },
+            {
+                brand: "AquaPure",
+                parent: "Hydralis Group",
+                sector: "eaux embouteillées",
+                summary: "Critiquée pour la surexploitation de nappes phréatiques dans des zones en tension hydrique et pour l'utilisation massive de plastique à usage unique.",
+                articles: [
+                    { label: "Enquête Presse Locale", url: "https://example.com/aquapure-enquete" },
+                    { label: "Coalition Zéro Plastique", url: "https://example.com/zeroplastique" }
+                ]
+            },
+            {
+                brand: "SweetBite",
+                parent: "NovaFoods",
+                sector: "confiseries",
+                summary: "A reçu une amende en 2023 pour dissimulation de la quantité réelle de sucre et des pratiques sociales contestées dans ses usines d'Amérique du Sud.",
+                articles: [
+                    { label: "Tribunal fédéral 2023", url: "https://example.com/tribunal-sweetbite" },
+                    { label: "Collectif Travailleurs Libres", url: "https://example.com/travailleurs-libres" }
+                ]
+            }
+        ];
+
+        const statsCount = document.querySelector('[data-company-count]');
+        const directoryList = document.querySelector('[data-directory]');
+        const resultsNode = document.getElementById('results');
+        const brandInput = document.getElementById('brandInput');
+        const searchBtn = document.getElementById('searchBtn');
+
+        statsCount.textContent = catalog.length;
+
+        function populateDirectory() {
+            directoryList.innerHTML = '';
+            catalog.forEach((item) => {
+                const li = document.createElement('li');
+                li.innerHTML = `<strong>${item.brand}</strong> — ${item.parent} (${item.sector})`;
+                directoryList.appendChild(li);
+            });
+        }
+
+        function renderResults(matches) {
+            if (!matches.length) {
+                const query = brandInput.value.trim();
+                const message = query ? `Aucun résultat pour « ${query} » pour le moment.` : `Aucune recherche en cours.`;
+                resultsNode.innerHTML = `<p class="placeholder">${message}</p>`;
+                return;
+            }
+
+            resultsNode.innerHTML = matches.map((item) => {
+                const articleLinks = item.articles
+                    .map((article) => `<li><a href="${article.url}" target="_blank" rel="noopener noreferrer">${article.label}</a></li>`)
+                    .join('');
+
+                return `
+                    <article class="card">
+                        <header>
+                            <h3>${item.brand}</h3>
+                            <p>Maison mère : <strong>${item.parent}</strong></p>
+                            <p>${item.sector}</p>
+                        </header>
+                        <p>${item.summary}</p>
+                        <p class="card-links-title">Sources :</p>
+                        <ul class="article-links">${articleLinks}</ul>
+                    </article>
+                `;
+            }).join('');
+        }
+
+        function handleSearch() {
+            const term = brandInput.value.trim().toLowerCase();
+            if (!term) {
+                resultsNode.innerHTML = '<p class="placeholder">Entrez le nom d\'une marque pour afficher son entreprise mère.</p>';
+                return;
+            }
+
+            const matches = catalog.filter((item) =>
+                item.brand.toLowerCase().includes(term) ||
+                item.parent.toLowerCase().includes(term)
+            );
+            renderResults(matches);
+        }
+
+        searchBtn.addEventListener('click', handleSearch);
+        brandInput.addEventListener('keydown', (event) => {
+            if (event.key === 'Enter') {
+                handleSearch();
+            }
+        });
+
+        populateDirectory();
+    </script>
+</body>
+</html>
