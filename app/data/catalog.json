@@ -6,12 +6,8 @@
         "summary": "Souvent citée dans les audits sur la pollution plastique et critiquée pour l'impact de ses usines sur les ressources en eau locales.",
         "articles": [
             {
-                "label": "Break Free From Plastic – Brand Audit",
-                "url": "https://www.breakfreefromplastic.org/brandaudit2023"
-            },
-            {
-                "label": "India Resource Center – Coca-Cola et l'eau",
-                "url": "https://www.indiaresource.org/issues/globalization/coke/"
+                "label": "Coca-Cola accused of quietly dropping its 25% reusable packaging target",
+                "url": "https://www.theguardian.com/environment/2024/dec/03/coca-cola-accused-dropping-reusable-packaging-target"
             }
         ]
     },
@@ -23,11 +19,7 @@
         "articles": [
             {
                 "label": "US Department of Labor – Child Labor in Cocoa",
-                "url": "https://www.dol.gov/agencies/ilab/resources/reports/child-labor/cocoa"
-            },
-            {
-                "label": "Fair Labor Association – Mars Cocoa Program",
-                "url": "https://www.fairlabor.org/program/mars"
+                "url": "https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/"
             }
         ]
     }
