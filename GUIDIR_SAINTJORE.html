@@ -38,6 +38,16 @@
             padding-left: 0;
             margin-left: 20px;
         }
+        .video-presentation {
+            margin-top: 10px;
+        }
+        .video-presentation video {
+            width: 100%;
+            max-width: 720px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+            display: block;
+        }
     </style>
 </head>
 <body>
@@ -92,6 +102,12 @@
                 <br>
                 <br>
                 <a href="app/app.html"> Placeholder site web </a>
+                <div class="video-presentation">
+                    <video controls>
+                        <source src="presentation_temp.mp4" type="video/mp4">
+                        Votre navigateur ne peut pas lire cette vidéo. Vous pouvez la <a href="presentation_temp.mp4">télécharger ici</a>.
+                    </video>
+                </div>
             </section>
 
         </ul>
