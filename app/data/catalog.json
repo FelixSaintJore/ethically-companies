@@ -1,0 +1,34 @@
+[
+    {
+        "brand": "Coca-Cola",
+        "parent": "The Coca-Cola Company",
+        "sector": "boissons gazeuses et rafraîchissantes",
+        "summary": "Souvent citée dans les audits sur la pollution plastique et critiquée pour l'impact de ses usines sur les ressources en eau locales.",
+        "articles": [
+            {
+                "label": "Break Free From Plastic – Brand Audit",
+                "url": "https://www.breakfreefromplastic.org/brandaudit2023"
+            },
+            {
+                "label": "India Resource Center – Coca-Cola et l'eau",
+                "url": "https://www.indiaresource.org/issues/globalization/coke/"
+            }
+        ]
+    },
+    {
+        "brand": "Mars",
+        "parent": "Mars, Incorporated",
+        "sector": "confiseries et produits alimentaires",
+        "summary": "Interpellée sur la dépendance au cacao d'Afrique de l'Ouest avec des risques persistants de travail des enfants et de déforestation dans la chaîne d'approvisionnement.",
+        "articles": [
+            {
+                "label": "US Department of Labor – Child Labor in Cocoa",
+                "url": "https://www.dol.gov/agencies/ilab/resources/reports/child-labor/cocoa"
+            },
+            {
+                "label": "Fair Labor Association – Mars Cocoa Program",
+                "url": "https://www.fairlabor.org/program/mars"
+            }
+        ]
+    }
+]

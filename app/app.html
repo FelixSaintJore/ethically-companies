@@ -168,7 +168,7 @@
         <section class="search-box">
             <label for="brandInput">Rechercher une marque :</label>
             <div class="search-controls">
-                <input id="brandInput" type="text" placeholder="Ex : NutriSnack, AquaPure..." autocomplete="off">
+                <input id="brandInput" type="text" placeholder="Ex : Coca-Cola, Mars..." autocomplete="off">
                 <button id="searchBtn" type="button">Rechercher</button>
             </div>
             <p class="stats"><span data-company-count>0</span> entreprises référencées</p>
@@ -186,38 +186,8 @@
     </main>
 
     <script>
-        const catalog = [
-            {
-                brand: "NutriSnack",
-                parent: "AgroPlanet",
-                sector: "produits céréaliers et snacks",
-                summary: "Pointée du doigt pour l'utilisation d'huile de palme non certifiée et le manque de transparence sur la rémunération des cultivateurs de cacao.",
-                articles: [
-                    { label: "Rapport ONG Forêt Claire", url: "https://example.com/foret-claire" },
-                    { label: "Analyse Consom'acteurs", url: "https://example.com/consomacteurs" }
-                ]
-            },
-            {
-                brand: "AquaPure",
-                parent: "Hydralis Group",
-                sector: "eaux embouteillées",
-                summary: "Critiquée pour la surexploitation de nappes phréatiques dans des zones en tension hydrique et pour l'utilisation massive de plastique à usage unique.",
-                articles: [
-                    { label: "Enquête Presse Locale", url: "https://example.com/aquapure-enquete" },
-                    { label: "Coalition Zéro Plastique", url: "https://example.com/zeroplastique" }
-                ]
-            },
-            {
-                brand: "SweetBite",
-                parent: "NovaFoods",
-                sector: "confiseries",
-                summary: "A reçu une amende en 2023 pour dissimulation de la quantité réelle de sucre et des pratiques sociales contestées dans ses usines d'Amérique du Sud.",
-                articles: [
-                    { label: "Tribunal fédéral 2023", url: "https://example.com/tribunal-sweetbite" },
-                    { label: "Collectif Travailleurs Libres", url: "https://example.com/travailleurs-libres" }
-                ]
-            }
-        ];
+        let catalog = [];
+        let catalogLoaded = false;
 
         const statsCount = document.querySelector('[data-company-count]');
         const directoryList = document.querySelector('[data-directory]');
@@ -225,10 +195,19 @@
         const brandInput = document.getElementById('brandInput');
         const searchBtn = document.getElementById('searchBtn');
 
-        statsCount.textContent = catalog.length;
+        function updateStats() {
+            statsCount.textContent = catalog.length;
+        }
 
         function populateDirectory() {
             directoryList.innerHTML = '';
+            if (!catalog.length) {
+                const li = document.createElement('li');
+                li.textContent = 'Aucune entreprise référencée pour le moment.';
+                directoryList.appendChild(li);
+                return;
+            }
+
             catalog.forEach((item) => {
                 const li = document.createElement('li');
                 li.innerHTML = `<strong>${item.brand}</strong> — ${item.parent} (${item.sector})`;
@@ -265,6 +244,11 @@
         }
 
         function handleSearch() {
+            if (!catalogLoaded) {
+                resultsNode.innerHTML = '<p class="placeholder">Chargement des données...</p>';
+                return;
+            }
+
             const term = brandInput.value.trim().toLowerCase();
             if (!term) {
                 resultsNode.innerHTML = '<p class="placeholder">Entrez le nom d\'une marque pour afficher son entreprise mère.</p>';
@@ -278,6 +262,27 @@
             renderResults(matches);
         }
 
+        async function loadCatalog() {
+            directoryList.innerHTML = '<li>Chargement...</li>';
+
+            try {
+                const response = await fetch('data/catalog.json');
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}`);
+                }
+
+                catalog = await response.json();
+                catalogLoaded = true;
+                updateStats();
+                populateDirectory();
+            } catch (error) {
+                console.error('Erreur de chargement du catalogue', error);
+                statsCount.textContent = '0';
+                directoryList.innerHTML = '<li>Impossible de charger l\'annuaire.</li>';
+                resultsNode.innerHTML = '<p class="placeholder">Impossible de récupérer les données pour le moment.</p>';
+            }
+        }
+
         searchBtn.addEventListener('click', handleSearch);
         brandInput.addEventListener('keydown', (event) => {
             if (event.key === 'Enter') {
@@ -285,7 +290,7 @@
             }
         });
 
-        populateDirectory();
+        loadCatalog();
     </script>
 </body>
 </html>
