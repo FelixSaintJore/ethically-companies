@@ -14,12 +14,56 @@
     {
         "brand": "Mars",
         "parent": "Mars, Incorporated",
-        "sector": "confiseries et produits alimentaires",
+        "sector": "Confiseries et produits alimentaires",
         "summary": "Interpellée sur la dépendance au cacao d'Afrique de l'Ouest avec des risques persistants de travail des enfants et de déforestation dans la chaîne d'approvisionnement.",
         "articles": [
             {
                 "label": "Candy company Mars uses cocoa harvested by kids as young as 5 in Ghana: CBS News investigation",
                 "url": "https://www.cbsnews.com/news/children-harvesting-cocoa-used-by-major-corporations-ghana/"
+            }
+        ]
+    },
+    {
+        "brand": "Nestlé",
+        "parent": "Nestlé S.A.",
+        "sector": "Agroalimentaire (Laits infantiles, eau, café)",
+        "summary": "Critiquée pour la teneur élevée en sucre de ses produits pour bébés dans les pays en développement (2024), l'exploitation de sources d'eau en période de sécheresse, et des accusations persistantes de travail des enfants dans la filière cacao.",
+        "articles": [
+            {
+                "label": "Nestlé adds sugar to baby food sold in poorer countries, report finds",
+                "url": "https://www.theguardian.com/global-development/2024/apr/17/nestle-adds-sugar-to-infant-milk-sold-in-poorer-countries-report-finds"
+            },
+            {
+                "label": "Child labour and modern slavery in the cocoa supply chain",
+                "url": "https://en.wikipedia.org/wiki/Nestl%C3%A9#Child_labour"
+            }
+        ]
+    },
+    {
+        "brand": "Danone",
+        "parent": "Danone S.A.",
+        "sector": "Produits laitiers et eaux",
+        "summary": "Attaquée en justice en 2023 par des ONG (Surfrider, ClientEarth) pour non-respect de la loi sur le devoir de vigilance concernant sa pollution plastique massive. Un accord a été trouvé en 2025 pour réduire l'empreinte plastique.",
+        "articles": [
+            {
+                "label": "Danone poursuivi par des ONG pour son utilisation du plastique",
+                "url": "https://www.theguardian.com/environment/2023/jan/10/activists-sue-french-food-firm-danone-plastics-footprint"
+            }
+        ]
+    },
+    {
+        "brand": "Ben & Jerry's",
+        "parent": "Unilever",
+        "sector": "Glaces",
+        "summary": "Bien que la marque Ben & Jerry's soit militante, sa maison mère Unilever est accusée de 'greenwashing' par les autorités britanniques (CMA) et néerlandaises, et critiquée pour avoir maintenu ses activités en Russie après l'invasion de l'Ukraine.",
+        "articles": [
+            {
+                "label": "Unilever fait l'objet d'une enquête de la part de l'autorité britannique de la concurrence pour ses allégations écologiques (greenwashing)",
+                "url": "https://www.theguardian.com/business/2023/dec/12/dove-marmite-unilever-investigated-uk-greenwashing"
+            },
+            {
+                "label": "Unilever critiqué pour son maintien en Russie",
+                "url": "https://www.just-food.com/news/unilever-under-fire-after-doubling-profits-in-russia-in-2022/"
             }
         ]
     }
