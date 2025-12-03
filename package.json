@@ -1,7 +1,7 @@
 {
   "name": "ethically-companies",
   "version": "1.0.0",
-  "description": "A webapp centralize knowledge about your favorite brands",
+  "description": "A webapp to centralize knowledge about brands",
   "scripts": {
     "start": "node server.js"
   },

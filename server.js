@@ -1,7 +1,7 @@
-const express = require('express');
+const express = require('express'); // chargement du framework Express
 const path = require('path');
-const db = require('./database');
-const fs = require('fs');
+const db = require('./database'); // on charge la configuration de la base de données
+const fs = require('fs'); // Filesystem pour lire et ecrire des fichiers (catalog.json notamment)
 
 const app = express();
 const PORT = process.env.PORT || 3000;
