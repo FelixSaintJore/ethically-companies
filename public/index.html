@@ -186,19 +186,19 @@
     </main>
 
     <script>
-        let catalog = [];
-        let catalogLoaded = false;
+        let catalog = []; // pour stocker les données du catalogue
+        let catalogLoaded = false; // indicateur du téléchargement
 
-        const statsCount = document.querySelector('[data-company-count]');
-        const directoryList = document.querySelector('[data-directory]');
-        const resultsNode = document.getElementById('results');
-        const brandInput = document.getElementById('brandInput');
-        const searchBtn = document.getElementById('searchBtn');
+        const statsCount = document.querySelector('[data-company-count]'); // pointe et remplace 0 par le vrai count
+        const directoryList = document.querySelector('[data-directory]'); // pointe vers l'annuaire
+        const resultsNode = document.getElementById('results'); // noeud des resultats
+        const brandInput = document.getElementById('brandInput'); // pointe vers champ de texte saisie
+        const searchBtn = document.getElementById('searchBtn'); // pointe vers le bouton rechercher
 
         // --- Tracking Logic ---
         function getQueryParam(param) {
-            const urlParams = new URLSearchParams(window.location.search);
-            return urlParams.get(param);
+            const urlParams = new URLSearchParams(window.location.search); // recupere les parametres de l'url
+            return urlParams.get(param); 
         }
 
         const currentUid = getQueryParam('uid');
@@ -224,7 +224,7 @@
             statsCount.textContent = catalog.length;
         }
 
-        function populateDirectory() {
+        function populateDirectory() { // rempli l'annuaire
             directoryList.innerHTML = '';
             if (!catalog.length) {
                 const li = document.createElement('li');
@@ -240,7 +240,7 @@
             });
         }
 
-        function renderResults(matches) {
+        function renderResults(matches) { // affiche les résultats de la recherche
             if (!matches.length) {
                 const query = brandInput.value.trim();
                 const message = query ? `Aucun résultat pour « ${query} » pour le moment.` : `Aucune recherche en cours.`;
@@ -270,7 +270,7 @@
             }).join('');
         }
 
-        function handleSearch() {
+        function handleSearch() { // quand l'utilisateur clique sur rechercher, parcours le catalogue
             if (!catalogLoaded) {
                 resultsNode.innerHTML = '<p class="placeholder">Chargement des données...</p>';
                 return;
@@ -292,7 +292,7 @@
             renderResults(matches);
         }
 
-        async function loadCatalog() {
+        async function loadCatalog() { // chargement des donnees du catalogue
             directoryList.innerHTML = '<li>Chargement...</li>';
 
             try {
@@ -312,8 +312,12 @@
                 resultsNode.innerHTML = '<p class="placeholder">Impossible de récupérer les données pour le moment.</p>';
             }
         }
+        
+        // ecoute les click sur le bouton rechercher
+        // quand ca arrive execute la fonction handleSearch
+        searchBtn.addEventListener('click', handleSearch); 
 
-        searchBtn.addEventListener('click', handleSearch);
+        // ecoute les appuis sur la touche entree dans le champ de texte
         brandInput.addEventListener('keydown', (event) => {
             if (event.key === 'Enter') {
                 handleSearch();
@@ -321,10 +325,11 @@
         });
 
         // Delegate click events for external links to track them
+        // ecoute ce qui se passe dans le noeud des resultats
         resultsNode.addEventListener('click', (event) => {
-            if (event.target.tagName === 'A' && event.target.closest('.article-links')) {
-                const url = event.target.href;
-                sendTracking('click', url);
+            if (event.target.tagName === 'A' && event.target.closest('.article-links')) { // lien dans le noeud des resultats
+                const url = event.target.href; // recupere l'url du lien cliqué
+                sendTracking('click', url); // envoie l'action de clic
             }
         });
 
