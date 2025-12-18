@@ -69,232 +69,229 @@
     }, 
     
     {
-    "brand": "Perrier",
+      "brand": "Perrier",
+      "parent": "Nestlé",
+      "sector": "Eaux minérales",
+      "summary": "Perrier appartient à Nestlé, régulièrement mis en cause pour sa gestion de ressources en eau dans plusieurs régions, notamment en France et aux États-Unis. Le groupe fait face à des accusations de surexploitation des nappes phréatiques et d'irrégularités dans l’exploitation de certaines sources.",
+      "articles": [
+          {
+              "label": "Enquête sur Nestlé pour prélèvements illégaux d’eau dans ses sources françaises",
+              "url": "https://www.lemonde.fr/economie/article/2023/01/11/nestle-soupconne-de-prelevements-illicites-pour-ses-eaux-minerales_6157719_3234.html"
+          },
+          {
+              "label": "Nestlé poursuivi pour la surexploitation des nappes en Californie",
+              "url": "https://www.rts.ch/info/monde/9813783-nestle-accuse-de-siphonner-leau-dune-californie-en-pleine-secheresse.html"
+          }
+      ]
+    },
+    {
+      "brand": "Evian",
+      "parent": "Danone",
+      "sector": "Eaux minérales",
+      "summary": "Evian appartient à Danone, qui a été critiqué pour la pression exercée sur les ressources hydriques, ainsi que pour sa production élevée de plastique. Le groupe fait également l'objet d’interpellations de la part d’ONG concernant ses engagements RSE jugés insuffisants.",
+      "articles": [
+          {
+              "label": "Danone visé par une plainte en France pour sa gestion du plastique",
+              "url": "https://www.reuters.com/world/europe/french-ngos-sue-danone-over-plastic-use-2023-01-09/"
+          },
+          {
+              "label": "Danone critiqué pour la gestion de l’eau autour des sources Evian",
+              "url": "https://www.france24.com/en/live-news/20230209-french-food-giant-danone-under-investigation-over-water-management"
+          }
+      ]
+    },
+    {
+      "brand": "Smarties",
+      "parent": "Nestlé",
+      "sector": "Confiserie / Chocolat & bonbons",
+      "summary": "Smarties est la confiserie chocolatée du groupe. Comme pour d'autres produits chocolatés de Nestlé, des critiques sur les pratiques d’approvisionnement — cacao, sucre, sourcing éthique — persistent, notamment en lien avec la durabilité et le respect des droits dans les chaînes de production. :contentReference[oaicite:8]{index=8}",
+      "articles": [
+        {
+          "label": "Analyse des impacts environnementaux et sociaux des produits confiserie de Nestlé",
+          "url": "https://utopia.org/guide/crime-controversy-nestles-5-biggest-scandals-explained/"
+        }
+      ]
+    }
+  ,
+  {
+    "brand": "Buitoni",
     "parent": "Nestlé",
-    "sector": "Eaux minérales",
-    "summary": "Perrier appartient à Nestlé, régulièrement mis en cause pour sa gestion de ressources en eau dans plusieurs régions, notamment en France et aux États-Unis. Le groupe fait face à des accusations de surexploitation des nappes phréatiques et d'irrégularités dans l’exploitation de certaines sources.",
+    "sector": "Alimentation / Pizzas & plats préparés",
+    "summary": "Buitoni, marque de pizzas surgelées et plats préparés, fait partie de l’empire Nestlé. L’entreprise a été critiquée — comme l’ensemble du groupe — pour son rôle dans la production de plats transformés, pointée du doigt par des ONG et des actionnaires à l’AG 2024 comme exemple de malbouffe. :contentReference[oaicite:7]{index=7}",
     "articles": [
-        {
-            "label": "Enquête sur Nestlé pour prélèvements illégaux d’eau dans ses sources françaises",
-            "url": "https://www.lemonde.fr/economie/article/2023/01/11/nestle-soupconne-de-prelevements-illicites-pour-ses-eaux-minerales_6157719_3234.html"
-        },
-        {
-            "label": "Nestlé poursuivi pour la surexploitation des nappes en Californie",
-            "url": "https://www.theguardian.com/us-news/2021/apr/27/nestle-california-water-extraction"
-        }
+      {
+        "label": "Nestlé dans la tourmente : critiques concernant ses plats préparés et la malbouffe",
+        "url": "https://www.lemonde.fr/en/economy/article/2024/04/19/junk-food-and-controversy-nestle-in-turmoil_6668918_19.html"
+      }
     ]
-    },
-    {
-    "brand": "Evian",
-    "parent": "Danone",
-    "sector": "Eaux minérales",
-    "summary": "Evian appartient à Danone, qui a été critiqué pour la pression exercée sur les ressources hydriques, ainsi que pour sa production élevée de plastique. Le groupe fait également l'objet d’interpellations de la part d’ONG concernant ses engagements RSE jugés insuffisants.",
+  }
+  ,
+  {
+    "brand": "Purina / Purina PetCare",
+    "parent": "Nestlé",
+    "sector": "Alimentation animale / Pet food",
+    "summary": "Purina — via la filiale petcare de Nestlé — est l’une des marques les plus importantes d’aliments pour animaux. Toutefois, comme l’ensemble du groupe, Nestlé subit des critiques globales sur ses pratiques d’approvisionnement (palm oil, protéines animales, surconsommation de ressources, etc.) et sur l’impact écologique de sa production massive. :contentReference[oaicite:4]{index=4}",
     "articles": [
-        {
-            "label": "Danone visé par une plainte en France pour sa gestion du plastique",
-            "url": "https://www.reuters.com/world/europe/french-ngos-sue-danone-over-plastic-use-2023-01-09/"
-        },
-        {
-            "label": "Danone critiqué pour la gestion de l’eau autour des sources Evian",
-            "url": "https://www.france24.com/en/live-news/20230209-french-food-giant-danone-under-investigation-over-water-management"
-        }
+      {
+        "label": "Analyse de l’impact environnemental et social des activités globales de Nestlé, incluant ses marques petfood",
+        "url": "https://www.greendigest.co/p/nestle-environmental-and-social-impact"
+      }
     ]
-    },
-
-
-    
-    {
-  "brand": "Smarties",
-  "parent": "Nestlé",
-  "sector": "Confiserie / Chocolat & bonbons",
-  "summary": "Smarties est la confiserie chocolatée du groupe. Comme pour d'autres produits chocolatés de Nestlé, des critiques sur les pratiques d’approvisionnement — cacao, sucre, sourcing éthique — persistent, notamment en lien avec la durabilité et le respect des droits dans les chaînes de production. :contentReference[oaicite:8]{index=8}",
-  "articles": [
-    {
-      "label": "Analyse des impacts environnementaux et sociaux des produits confiserie de Nestlé",
-      "url": "https://utopia.org/guide/crime-controversy-nestles-5-biggest-scandals-explained/"
-    }
-  ]
-}
-,
-{
-  "brand": "Buitoni",
-  "parent": "Nestlé",
-  "sector": "Alimentation / Pizzas & plats préparés",
-  "summary": "Buitoni, marque de pizzas surgelées et plats préparés, fait partie de l’empire Nestlé. L’entreprise a été critiquée — comme l’ensemble du groupe — pour son rôle dans la production de plats transformés, pointée du doigt par des ONG et des actionnaires à l’AG 2024 comme exemple de malbouffe. :contentReference[oaicite:7]{index=7}",
-  "articles": [
-    {
-      "label": "Nestlé dans la tourmente : critiques concernant ses plats préparés et la malbouffe",
-      "url": "https://www.lemonde.fr/en/economy/article/2024/04/19/junk-food-and-controversy-nestle-in-turmoil_6668918_19.html"
-    }
-  ]
-}
-,
-{
-  "brand": "Purina / Purina PetCare",
-  "parent": "Nestlé",
-  "sector": "Alimentation animale / Pet food",
-  "summary": "Purina — via la filiale petcare de Nestlé — est l’une des marques les plus importantes d’aliments pour animaux. Toutefois, comme l’ensemble du groupe, Nestlé subit des critiques globales sur ses pratiques d’approvisionnement (palm oil, protéines animales, surconsommation de ressources, etc.) et sur l’impact écologique de sa production massive. :contentReference[oaicite:4]{index=4}",
-  "articles": [
-    {
-      "label": "Analyse de l’impact environnemental et social des activités globales de Nestlé, incluant ses marques petfood",
-      "url": "https://www.greendigest.co/p/nestle-environmental-and-social-impact"
-    }
-  ]
-}
-,
-{
-  "brand": "KitKat",
-  "parent": "Nestlé",
-  "sector": "Confiserie / Chocolat & biscuits",
-  "summary": "KitKat, barre chocolatée mondialement connue de Nestlé, profite de vastes chaînes d’approvisionnement. Mais le sourcing des ingrédients (cacao, etc.) du groupe a suscité des critiques sur la déforestation, les conditions de travail et les droits sociaux dans certaines zones de culture. :contentReference[oaicite:3]{index=3}",
-  "articles": [
-    {
-      "label": "Controverses liées à la chaîne d’approvisionnement en cacao de Nestlé (déforestation, abus sur plantations)",
-      "url": "https://utopia.org/guide/crime-controversy-nestles-5-biggest-scandals-explained/"
-    }
-  ]
-}
-,
-{
-  "brand": "Maggi",
-  "parent": "Nestlé",
-  "sector": "Alimentation & épicerie / Soupes, assaisonnements, plats préparés",
-  "summary": "Maggi appartient à Nestlé depuis plusieurs décennies. La marque a été au cœur de scandales sanitaires : en 2015, des nouilles instantanées Maggi ont été interdites temporairement en Inde après détection de taux de plomb anormalement élevés, mettant en cause la sécurité alimentaire du groupe. :contentReference[oaicite:1]{index=1}",
-  "articles": [
-    {
-      "label": "Retrait des nouilles Maggi en Inde après des taux de plomb surélevés",
-      "url": "https://www.wikipedia.org/wiki/Maggi_noodles_safety_concerns_in_India"
-    }
-  ]
-}
-,
-{
-  "brand": "Nespresso",
-  "parent": "Nestlé",
-  "sector": "Café / Capsules & café premium",
-  "summary": "Nespresso, marque de café en capsules haut de gamme de Nestlé, est critiquée pour l’empreinte écologique de ses capsules — déchets d’aluminium ou plastique — et pour les problèmes associés à la filière café (déforestation, conditions sociales des producteurs).",
-  "articles": [
-    {
-      "label": "Impact environnemental et social des grandes firmes alimentaires dont Nestlé",
-      "url": "https://www.greendigest.co/p/nestle-environmental-and-social-impact"
-    }
-  ]
-}
-, 
-{
-  "brand": "Nescafé",
-  "parent": "Nestlé",
-  "sector": "Café / Boissons chaudes",
-  "summary": "Nescafé est l’une des marques emblématiques de café instantané de Nestlé — populaire dans le monde entier — mais le groupe fait face à des critiques globales concernant son approvisionnement en café, notamment sur les conditions de travail dans les plantations et l’impact environnemental de certaines cultures intensives.",
-  "articles": [
-    {
-      "label": "Critiques de l’impact environnemental et social des approvisionnements de Nestlé en café",
-      "url": "https://www.greendigest.co/p/nestle-environmental-and-social-impact"
-    },
-    {
-      "label": "Débat sur les effets de l’industrie du café et les engagements RSE de Nestlé",
-      "url": "https://www.lemonde.fr/en/economy/article/2024/04/19/junk-food-and-controversy-nestle-in-turmoil_6668918_19.html"
-    }
-  ]
-}, 
-{
-  "brand": "Oreo",
-  "parent": "Mondelez",
-  "sector": "Biscuits / Produits sucrés",
-  "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
-  "articles": [
-    {
-      "label": "Pratiques anti-concurrentielles de Mondelez",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
-    },
-    {
-      "label": "Class Action aux États-Unis",
-      "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
-    },
-    {
-      "label": "Marketing déloyal et trompeur belVita",
-      "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
-    }
-  ]
-}, {
-  "brand": "belVita",
-  "parent": "Mondelez",
-  "sector": "Biscuits petit-déjeuner",
-  "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
-  "articles": [
-    {
-      "label": "Pratiques anti-concurrentielles de Mondelez",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
-    },
-    {
-      "label": "Class Action aux États-Unis",
-      "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
-    },
-    {
-      "label": "Marketing déloyal et trompeur belVita",
-      "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
-    }
-  ]
-},
-{
-  "brand": "Côte d'or",
-  "parent": "Mondelez",
-  "sector": "Biscuits petit-déjeuner",
-  "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
-  "articles": [
-    {
-      "label": "Pratiques anti-concurrentielles de Mondelez",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
-    },
-    {
-      "label": "Class Action aux États-Unis",
-      "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
-    },
-    {
-      "label": "Marketing déloyal et trompeur belVita",
-      "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
-    }
-  ]
-}, 
-{
-  "brand": "Lu",
-  "parent": "Mondelez",
-  "sector": "Biscuits petit-déjeuner",
-  "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
-  "articles": [
-    {
-      "label": "Pratiques anti-concurrentielles de Mondelez",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
-    },
-    {
-      "label": "Class Action aux États-Unis",
-      "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
-    },
-    {
-      "label": "Marketing déloyal et trompeur belVita",
-      "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
-    }
-  ]
-},
-{
-  "brand": "Milka",
-  "parent": "Mondelez",
-  "sector": "Biscuits petit-déjeuner",
-  "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
-  "articles": [
-    {
-      "label": "Pratiques anti-concurrentielles de Mondelez",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
-    },
-    {
-      "label": "Class Action aux États-Unis",
-      "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
-    },
-    {
-      "label": "Marketing déloyal et trompeur belVita",
-      "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
-    }
-  ]
+  }
+  ,
+  {
+    "brand": "KitKat",
+    "parent": "Nestlé",
+    "sector": "Confiserie / Chocolat & biscuits",
+    "summary": "KitKat, barre chocolatée mondialement connue de Nestlé, profite de vastes chaînes d’approvisionnement. Mais le sourcing des ingrédients (cacao, etc.) du groupe a suscité des critiques sur la déforestation, les conditions de travail et les droits sociaux dans certaines zones de culture. :contentReference[oaicite:3]{index=3}",
+    "articles": [
+      {
+        "label": "Controverses liées à la chaîne d’approvisionnement en cacao de Nestlé (déforestation, abus sur plantations)",
+        "url": "https://utopia.org/guide/crime-controversy-nestles-5-biggest-scandals-explained/"
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Maggi",
+    "parent": "Nestlé",
+    "sector": "Alimentation & épicerie / Soupes, assaisonnements, plats préparés",
+    "summary": "Maggi appartient à Nestlé depuis plusieurs décennies. La marque a été au cœur de scandales sanitaires : en 2015, des nouilles instantanées Maggi ont été interdites temporairement en Inde après détection de taux de plomb anormalement élevés, mettant en cause la sécurité alimentaire du groupe. :contentReference[oaicite:1]{index=1}",
+    "articles": [
+      {
+        "label": "Retrait des nouilles Maggi en Inde après des taux de plomb surélevés",
+        "url": "https://www.wikipedia.org/wiki/Maggi_noodles_safety_concerns_in_India"
+      }
+    ]
+  }
+  ,
+  {
+    "brand": "Nespresso",
+    "parent": "Nestlé",
+    "sector": "Café / Capsules & café premium",
+    "summary": "Nespresso, marque de café en capsules haut de gamme de Nestlé, est critiquée pour l’empreinte écologique de ses capsules — déchets d’aluminium ou plastique — et pour les problèmes associés à la filière café (déforestation, conditions sociales des producteurs).",
+    "articles": [
+      {
+        "label": "Impact environnemental et social des grandes firmes alimentaires dont Nestlé",
+        "url": "https://www.greendigest.co/p/nestle-environmental-and-social-impact"
+      }
+    ]
+  }
+  , 
+  {
+    "brand": "Nescafé",
+    "parent": "Nestlé",
+    "sector": "Café / Boissons chaudes",
+    "summary": "Nescafé est l’une des marques emblématiques de café instantané de Nestlé — populaire dans le monde entier — mais le groupe fait face à des critiques globales concernant son approvisionnement en café, notamment sur les conditions de travail dans les plantations et l’impact environnemental de certaines cultures intensives.",
+    "articles": [
+      {
+        "label": "Critiques de l’impact environnemental et social des approvisionnements de Nestlé en café",
+        "url": "https://www.greendigest.co/p/nestle-environmental-and-social-impact"
+      },
+      {
+        "label": "Débat sur les effets de l’industrie du café et les engagements RSE de Nestlé",
+        "url": "https://www.lemonde.fr/en/economy/article/2024/04/19/junk-food-and-controversy-nestle-in-turmoil_6668918_19.html"
+      }
+    ]
+  }, 
+  {
+    "brand": "Oreo",
+    "parent": "Mondelez",
+    "sector": "Biscuits / Produits sucrés",
+    "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
+    "articles": [
+      {
+        "label": "Pratiques anti-concurrentielles de Mondelez",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
+      },
+      {
+        "label": "Class Action aux États-Unis",
+        "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
+      },
+      {
+        "label": "Marketing déloyal et trompeur belVita",
+        "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
+      }
+    ]
+  }, {
+    "brand": "belVita",
+    "parent": "Mondelez",
+    "sector": "Biscuits petit-déjeuner",
+    "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
+    "articles": [
+      {
+        "label": "Pratiques anti-concurrentielles de Mondelez",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
+      },
+      {
+        "label": "Class Action aux États-Unis",
+        "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
+      },
+      {
+        "label": "Marketing déloyal et trompeur belVita",
+        "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
+      }
+    ]
+  },
+  {
+    "brand": "Côte d'or",
+    "parent": "Mondelez",
+    "sector": "Biscuits petit-déjeuner",
+    "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
+    "articles": [
+      {
+        "label": "Pratiques anti-concurrentielles de Mondelez",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
+      },
+      {
+        "label": "Class Action aux États-Unis",
+        "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
+      },
+      {
+        "label": "Marketing déloyal et trompeur belVita",
+        "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
+      }
+    ]
+  }, 
+  {
+    "brand": "Lu",
+    "parent": "Mondelez",
+    "sector": "Biscuits petit-déjeuner",
+    "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
+    "articles": [
+      {
+        "label": "Pratiques anti-concurrentielles de Mondelez",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
+      },
+      {
+        "label": "Class Action aux États-Unis",
+        "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
+      },
+      {
+        "label": "Marketing déloyal et trompeur belVita",
+        "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
+      }
+    ]
+  },
+  {
+    "brand": "Milka",
+    "parent": "Mondelez",
+    "sector": "Biscuits petit-déjeuner",
+    "summary": "Mondelez est accusé par la commission européenne d'abuser de sa position dominante en prenant part à des accords anticoncurrentiels. Mondelez est de plus accusé de marketing trompeur, avec des produits ultra transformés tels que Belvita présenté comme sain et écologique. Finalement, Mondelez est accusé de participer à la déforestation et d’employer des mineurs dans une class action aux états-unis. ",
+    "articles": [
+      {
+        "label": "Pratiques anti-concurrentielles de Mondelez",
+        "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_24_2727"
+      },
+      {
+        "label": "Class Action aux États-Unis",
+        "url": "https://www.business-humanrights.org/en/latest-news/usa-class-action-lawsuit-accuses-mondelez-of-child-labor-and-deforestation-contrary-to-sustainability-claims-on-packaging/"
+      },
+      {
+        "label": "Marketing déloyal et trompeur belVita",
+        "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
+      }
+    ]
   },
   {
     "brand" : "Prince",
