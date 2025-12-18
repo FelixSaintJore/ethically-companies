@@ -328,11 +328,641 @@
         "url": "https://www.bfmtv.com/economie/entreprises/coca-mondelez-nestle-san-francisco-lance-une-procedure-inedite-contre-les-geants-des-aliments-ultratransformes_AD-202512030094.html"
       }
     ]
+  },
+  {
+    "brand": "3M",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "3M est impliquée dans un scandale environnemental majeur lié aux substances perfluoroalkylées (PFAS), dites \"produits chimiques éternels\". L’entreprise a été poursuivie pour la contamination des eaux et des sols par ces substances toxiques et a accepté de payer plus de 10 milliards de dollars pour financer la décontamination de l’eau potable aux États-Unis:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}.",
+    "articles": [
+      {
+        "label": "3M paye 10,3 milliards $ pour pollution de l’eau aux \u00ab produits chimiques éternels \u00bb",
+        "url": "https://www.theguardian.com/environment/2023/jun/22/3m-settlement-municipal-water-systems-pfas-contamination"
+      }
+    ]
+  },
+  {
+    "brand": "Adani Group",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le conglomérat indien Adani est au cœur d’une controverse environnementale en raison de son projet de méga-mine de charbon Carmichael en Australie. Malgré l’opposition des écologistes et des scientifiques qui dénoncent son impact climatique et les risques pour les écosystèmes (notamment la Grande Barrière de corail), le groupe a obtenu le feu vert des autorités, suscitant de vives critiques pour l’ouverture d’un nouveau bassin charbonnier qui aggravera le réchauffement climatique:contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}.",
+    "articles": [
+      {
+        "label": "Polémique autour de la mine de charbon Carmichael (Adani) en Australie",
+        "url": "https://www.theguardian.com/environment/2019/jun/14/campaigners-criticise-reckless-approval-adani-mine-australia"
+      }
+    ]
+  },
+  {
+    "brand": "Airbnb",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Airbnb a été critiquée pour la présence d’annonces de logements dans les colonies israéliennes en Cisjordanie occupée. En 2018, la plateforme avait annoncé retirer environ 200 annonces situées dans ces colonies, reconnaissant la controverse, mais elle est revenue sur cette décision en 2019 sous la pression de poursuites juridiques. Désormais, Airbnb maintient ces locations en Cisjordanie – sans en tirer de profit – ce qui lui vaut des accusations de complicité envers une situation jugée illégale par une grande partie de la communauté internationale:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.",
+    "articles": [
+      {
+        "label": "Listings Airbnb dans les colonies israéliennes en Cisjordanie (polémique)",
+        "url": "https://www.reuters.com/article/business/airbnb-reverses-on-delisting-israeli-settlements-wont-profit-off-west-bank-idUSKCN1RL2SX/"
+      }
+    ]
+  },
+  {
+    "brand": "Airbus",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Le groupe aérospatial Airbus est mis en cause pour ses ventes d’armes à des pays engagés dans des conflits. En particulier, sa filiale espagnole a fourni des avions ravitailleurs A330 MRTT à l’aviation saoudienne, qui les utilise pour appuyer les bombardements au Yémen:contentReference[oaicite:6]{index=6}. Des ONG ont déposé plainte en Europe, accusant Airbus de complicité de crimes de guerre pour avoir fourni du matériel militaire utilisé par la coalition saoudienne dans la guerre au Yémen, en violation présumée des réglementations européennes sur les exportations d’armes:contentReference[oaicite:7]{index=7}.",
+    "articles": [
+      {
+        "label": "Ventes d’armes d’Airbus liées à la guerre au Yémen",
+        "url": "https://www.lighthousereports.com/investigation/spain-maintains-war-in-yemen/"
+      }
+    ]
+  },
+  {
+    "brand": "Anglo American",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le groupe minier Anglo American est visé par une action collective pour les graves pollutions au plomb causées pendant des décennies dans la ville de Kabwe, en Zambie. L’entreprise est accusée d’avoir, via une filiale sud-africaine, exploité une mine de plomb qui a \"empoisonné des générations\" d’habitants – environ 140 000 personnes – provoquant un scandale sanitaire majeur:contentReference[oaicite:8]{index=8}. Anglo American conteste sa responsabilité directe, mais cette \"héritage toxique\" donne lieu à des poursuites pour obtenir réparation des dommages environnementaux et sanitaires subis par la population locale.",
+    "articles": [
+      {
+        "label": "Intoxication au plomb en Zambie : action collective contre Anglo American",
+        "url": "https://apnews.com/article/anglo-american-mining-zambia-lead-pollution-class-action-1ab1de582337b15b431e2330cf98d7bf"
+      }
+    ]
+  },
+  {
+    "brand": "Asia Pulp & Paper (APP)",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le papetier asiatique APP a longtemps été dénoncé pour sa contribution à la déforestation massive en Indonésie. Malgré des engagements affichés pour stopper la destruction des forêts tropicales, des enquêtes ont montré que le groupe et ses fournisseurs continuaient de raser des forêts primaires pour la production de pâte à papier, menaçant des écosystèmes critiques et des espèces en danger. APP est ainsi devenu un symbole des pratiques non durables dans l’industrie du papier, suscitant des campagnes internationales de boycott et de protestation.",
+    "articles": [
+      {
+        "label": "Greenpeace dénonce la déforestation liée à Asia Pulp & Paper",
+        "url": "https://news.mongabay.com/2018/11/asia-pulp-paper-accused-of-secretive-deforestation/"
+      }
+    ]
+  },
+  {
+    "brand": "Apple",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Apple est accusée de tirer profit de \"minerais de conflit\" extraits en République démocratique du Congo. En 2024, le gouvernement congolais a déposé plainte contre la firme, l’accusant de complicité dans le commerce de minerais (tin, tantale, tungstène, or) dont l’exploitation finance des groupes armés coupables d’atrocités (massacres, viols) dans l’est du Congo:contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10}. Apple conteste ces allégations et affirme avoir banni de sa chaîne d’approvisionnement les minerais provenant de zones de conflit, mais fait face à des poursuites pour recel de crimes de guerre et tromperie sur la provenance de ses composants.",
+    "articles": [
+      {
+        "label": "Plainte contre Apple pour usage de minerais de conflit en RDC",
+        "url": "https://www.reuters.com/sustainability/society-equity/congo-files-criminal-complaints-against-apple-europe-over-conflict-minerals-2024-12-17/"
+      }
+    ]
+  },
+  {
+    "brand": "ArcelorMittal",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le sidérurgiste ArcelorMittal a fait face à un scandale environnemental lié à l’aciérie d’Ilva, dans la ville de Tarente (sud de l’Italie). Ce site – l’un des plus grands d’Europe – a pollué durablement l’air et le sol de la région, causant un excès de maladies et de mortalité. La justice et l’UE ont exigé des mesures drastiques, allant jusqu’à envisager la fermeture de l’usine si les risques sanitaires persistent:contentReference[oaicite:11]{index=11}:contentReference[oaicite:12]{index=12}. ArcelorMittal, qui a géré l’aciérie jusqu’en 2020, a été critiqué pour la lenteur des travaux de dépollution, incarnant le dilemme entre activité industrielle et protection de la santé publique.",
+    "articles": [
+      {
+        "label": "Pollution de l’aciérie de Tarente (Italie) : mise en cause d’ArcelorMittal",
+        "url": "https://www.reuters.com/business/environment/ilva-steel-plant-should-be-closed-if-it-is-health-hazard-eu-court-says-2024-06-25/"
+      }
+    ]
+  },
+  {
+    "brand": "Auchan",
+    "parent": "Association Familiale Mulliez",
+    "sector": "Conflits internationaux",
+    "summary": "L’enseigne française de grande distribution Auchan a poursuivi ses opérations en Russie malgré la guerre en Ukraine, ce qui lui vaut de vives critiques. Une enquête de _Le Monde_ et partenaires a révélé qu’en mars 2022, la filiale russe d’Auchan a elle-même organisé la collecte et l’envoi de marchandises (nourriture, générateurs, etc.) destinées à l’armée russe sur le front ukrainien:contentReference[oaicite:13]{index=13}. L’Ukraine a accusé Auchan de se comporter comme \"une arme à part entière de l’agression russe\", appelant au boycott de la marque pour ce soutien logistique indirect aux forces russes.",
+    "articles": [
+      {
+        "label": "Auchan Russie accusé d’aider l’effort de guerre de Moscou",
+        "url": "https://www.business-humanrights.org/fr/latest-news/auchan-leroy-merlin-allegedly-support-russian-soldiers-fighting-in-ukraine-new-investigation-found/"
+      }
+    ]
+  },
+  {
+    "brand": "BAE Systems",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "BAE Systems, le plus grand fabricant d’armes britannique, est régulièrement pointé du doigt pour ses ventes d’armements à des pays engagés dans des conflits. L’entreprise fournit notamment des avions de combat, munitions et équipements à l’Arabie saoudite et aux Emirats arabes unis, qui les ont utilisés dans la guerre au Yémen. Ces exportations ont provoqué des polémiques au Royaume-Uni, des ONG et parlementaires jugeant BAE complice des violations du droit humanitaire au Yémen (bombardements de civils). Bien que les tribunaux britanniques aient brièvement suspendu ces ventes en 2019, elles ont ensuite repris, maintenant la controverse autour de BAE Systems et de sa responsabilité dans ce conflit.",
+    "articles": [
+      {
+        "label": "Armes britanniques et conflit au Yémen : le rôle de BAE Systems",
+        "url": "https://www.theguardian.com/world/2019/feb/07/uk-weapons-sales-to-saudi-arabia-unlawful-lords-committee-finds"
+      }
+    ]
+  },
+  {
+    "brand": "Barrick Gold",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le géant minier Barrick Gold a connu une série de graves pollutions par cyanure dans l’exploitation de sa mine d’or de Veladero, en Argentine. Entre 2015 et 2017, trois fuites de solution cyanurée se sont produites en 18 mois, dont la première a déversé environ un million de litres de cyanure dans une rivière servant d’eau potable:contentReference[oaicite:14]{index=14}. Les enquêtes ont révélé la négligence de Barrick, qui n’avait pas mis en œuvre à temps des améliorations pourtant ordonnées (comme le remplacement de canalisations défectueuses) pouvant prévenir ces fuites:contentReference[oaicite:15]{index=15}. La justice argentine a inculpé des dirigeants et infligé des sanctions, et l’entreprise a dû payer des amendes et suspendre temporairement ses opérations pour mettre aux normes ses installations.",
+    "articles": [
+      {
+        "label": "Fuites toxiques de cyanure à la mine Veladero (Barrick, Argentine)",
+        "url": "https://www.reuters.com/article/business/barrick-faces-sanctions-for-argentina-cyanide-spills-judge-says-idUSKBN1841TX/"
+      }
+    ]
+  },
+  {
+    "brand": "BHP Group",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le groupe minier australo-britannique BHP est associé à l’une des pires catastrophes environnementales du Brésil. En 2015, l’effondrement d’un barrage de résidus miniers exploité via sa coentreprise Samarco a provoqué une coulée de boue toxique qui a dévasté des villages, fait 19 morts et pollué le fleuve Rio Doce sur des centaines de kilomètres. BHP (avec Vale) a été poursuivi pour ce désastre : l’entreprise a conclu des accords de compensation de plusieurs milliards de dollars, mais reste confrontée aux critiques sur la sécurité de ses installations. Par ailleurs, BHP a été impliqué dans d’autres controverses environnementales, comme des émissions massives de gaz à effet de serre (c’est l’un des plus gros producteurs de charbon métallurgique) et des conflits avec des communautés autochtones sur l’usage de l’eau dans le désert d’Atacama (mine d’Escondida au Chili).",
+    "articles": [
+      {
+        "label": "Catastrophe du barrage de Samarco (BHP/Vale, Brésil)",
+        "url": "https://www.reuters.com/article/brazil-dam-disaster-settlement-idAFL1N2L81W1"
+      }
+    ]
+  },
+  {
+    "brand": "Blackwater (Academi)",
+    "parent": "Constellis",
+    "sector": "Conflits internationaux",
+    "summary": "Blackwater, société militaire privée américaine, s’est rendue tristement célèbre lors de la guerre d’Irak. En 2007, des gardes armés de Blackwater ont ouvert le feu de manière indiscriminée sur des civils irakiens à Nisour Square (Bagdad), tuant 14 personnes dont des enfants:contentReference[oaicite:16]{index=16}. Ce massacre a provoqué un tollé international et symbolisé les dérives de l’utilisation de mercenaires en zone de guerre. Quatre agents de Blackwater ont été reconnus coupables de meurtres ou d’homicides volontaires et condamnés en 2014, mais ont reçu en 2020 une grâce controversée du président américain d’alors, suscitant l’indignation des familles des victimes et des défenseurs des droits humains:contentReference[oaicite:17]{index=17}.",
+    "articles": [
+      {
+        "label": "Massacre de Nisour Square (Blackwater, 2007) et suites judiciaires",
+        "url": "https://www.theguardian.com/world/2020/dec/23/trump-pardons-blackwater-contractors-jailed-for-massacre-of-iraq-civilians"
+      }
+    ]
+  },
+  {
+    "brand": "Boeing",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "En plus de son activité civile, Boeing est un important fournisseur d’armements et d’aéronefs militaires, ce qui l’a mêlé à des controverses dans des conflits récents. L’entreprise construit notamment des avions de combat F-15, F/A-18 et des missiles qui ont été utilisés par la coalition saoudienne au Yémen. Les frappes aériennes menées avec des chasseurs ou des drones Boeing ont été associées à des bavures meurtrières sur des civils yéménites, suscitant des critiques quant à l’exportation continue de ces armes vers des pays impliqués dans des crimes de guerre. Boeing a également été éclaboussée par le scandale du 737 MAX (accidents mortels en 2018-19), bien que cela relève de la sécurité aérienne civile plus que des conflits armés. Globalement, l’entreprise fait face à la controverse de voir ses technologies employées dans des guerres au bilan humanitaire catastrophique.",
+    "articles": [
+      {
+        "label": "Rôle de Boeing dans l'armement utilisé au Yémen",
+        "url": "https://theintercept.com/2018/12/12/yemen-war-boeing-saudi-arabia/"
+      }
+    ]
+  },
+  {
+    "brand": "Booking.com",
+    "parent": "Booking Holdings",
+    "sector": "Conflits internationaux",
+    "summary": "Booking.com a été critiqué pour la promotion de logements dans des zones de conflit. En particulier, la plateforme propose des hébergements dans des colonies israéliennes implantées sur le territoire palestinien occupé (Cisjordanie et Jérusalem-Est), ce que d’aucuns considèrent comme une normalisation d’une situation illégale au regard du droit international. Fin 2022, Booking a annoncé qu’un avertissement serait affiché aux voyageurs concernant les risques dans ces zones \"touchées par un conflit\". Toutefois, des ONG comme Amnesty International estiment que la firme ne va pas assez loin et continue de tirer profit de locations sur des terres occupées illégalement, contribuant indirectement à l’économie des colonies au détriment des populations locales.",
+    "articles": [
+      {
+        "label": "Polémique sur Booking.com et les logements en colonies israéliennes",
+        "url": "https://www.reuters.com/business/retail-consumer/bookingcom-add-safety-label-listings-israeli-occupied-west-bank-report-2022-09-19/"
+      }
+    ]
+  },
+  {
+    "brand": "BP",
+    "parent": "Identique",
+    "sector": "Environnement, Conflits internationaux",
+    "summary": "Le groupe pétrolier BP (British Petroleum) traîne de lourdes casseroles sur les plans environnemental et éthique. Il a été responsable de la marée noire historique de Deepwater Horizon en 2010 dans le golfe du Mexique, causant une pollution maritime catastrophique. BP a dû payer des dizaines de milliards en amendes et dédommagements. Par ailleurs, dans les années 1990, la compagnie a été accusée d’avoir indirectement financé des groupes armés: en Colombie, sa filiale aurait eu recours à des paramilitaires pour la sécurité d’un oléoduc, et au Moyen-Orient, BP a continué ses coentreprises en Russie malgré la guerre en Ukraine jusqu’en 2022. Ces actions valent à BP d’être dénoncée tant pour son impact climatique et environnemental que pour son opportunisme dans des contextes de conflits armés.",
+    "articles": [
+      {
+        "label": "BP : de Deepwater Horizon à la controverse sur ses activités en régime autoritaire",
+        "url": "https://www.bbc.com/future/article/20190404-the-deepwater-horizon-disaster-ten-years-on"
+      }
+    ]
+  },
+  {
+    "brand": "BNP Paribas",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "La banque française BNP Paribas a été sanctionnée pour des transactions illégales impliquant des régimes sous embargo, dont le Soudan pendant la guerre du Darfour (2003-2008). En 2014, BNP a reconnu avoir contourné des sanctions américaines en traitant des milliards de dollars pour le compte du gouvernement soudanais d’Omar el-Béchir, alors que ce dernier était accusé de crimes de guerre et génocide au Darfour. La banque a plaidé coupable aux États-Unis et a écopé d’une amende record de 8,9 milliards de dollars. Cette affaire a jété une lumière crue sur la responsabilité des institutions financières dans le financement indirect de conflits armés et de régimes autoritaires, entachant durablement la réputation de BNP Paribas.",
+    "articles": [
+      {
+        "label": "Amende record à BNP Paribas pour contournement d'embargos (Soudan, etc.)",
+        "url": "https://www.reuters.com/article/us-bnp-paribas-settlement-idUSKBN0F52HA20140630"
+      }
+    ]
+  },
+  {
+    "brand": "Burger King",
+    "parent": "Restaurant Brands International",
+    "sector": "Environnement",
+    "summary": "La chaîne de restauration rapide Burger King est accusée de contribuer à la déforestation tropicale par son approvisionnement en matières premières. Des rapports ont révélé que le soja cultivé sur des terres déboisées au Brésil et en Bolivie entrait dans l’alimentation du bétail dont Burger King achète la viande:contentReference[oaicite:18]{index=18}. De même, l’expansion de l’élevage bovin pour les besoins de la marque a été liée à la destruction de forêts, notamment en Amazonie. Ces pratiques valent à Burger King d’être ciblé par des ONG environnementales, qui l’exhortent à revoir sa chaîne d’approvisionnement afin de stopper son impact sur la forêt tropicale.",
+    "articles": [
+      {
+        "label": "Burger King mis en cause dans la déforestation liée au soja et à la viande",
+        "url": "https://www.theguardian.com/environment/2017/mar/01/burger-king-animal-feed-deforestation-soya-bolivia-brazil"
+      }
+    ]
+  },
+  {
+    "brand": "Carnival Corporation",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Carnival, premier exploitant de croisières au monde, a été impliqué dans plusieurs scandales de pollution maritime. La compagnie a admis que certains de ses navires avaient délibérément rejeté des déchets plastiques et des eaux usées non traitées en mer, en violation des réglementations. En 2019, Carnival a plaidé coupable aux États-Unis pour des infractions répétées à un accord de probation portant sur la pollution, acceptant de payer une amende de 20 millions de dollars en plus d’engagements de conformité renforcés. Par ailleurs, les navires de Carnival brûlent un fioul lourd très polluant, contribuant à la pollution de l’air dans les ports et à l’acidification des océans – un impact environnemental de plus en plus dénoncé par les associations écologistes et certaines villes portuaires.",
+    "articles": [
+      {
+        "label": "Pollutions illégales en mer : Carnival condamné",
+        "url": "https://www.reuters.com/article/us-carnival-probation/fined-again-carnival-cruise-to-pay-another-20-million-over-pollution-idUSKCN1T12NR"
+      }
+    ]
+  },
+  {
+    "brand": "Casino (Groupe Casino)",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le groupe français Casino est pointé du doigt pour son implication indirecte dans la déforestation de l’Amazonie. Via ses filiales en Amérique latine (notamment les supermarchés Pão de Açúcar au Brésil), Casino commercialise de la viande bovine produite dans des zones déboisées illégalement en Amazonie. En 2021, des ONG et des représentants de peuples autochtones d’Amazonie ont poursuivi Casino en justice, l’accusant d’acheter du bœuf provenant d’élevages responsables de la destruction de forêts et d’accaparement de terres indigènes. Ce litige, une première en France, met en cause la responsabilité d’une enseigne de distribution dans son chaîne d’approvisionnement et son devoir de vigilance face aux atteintes environnementales graves.",
+    "articles": [
+      {
+        "label": "Casino attaqué en justice pour déforestation liée au bœuf brésilien",
+        "url": "https://www.lemonde.fr/planete/article/2021/03/03/environnement-le-groupe-casino-poursuivi-pour-sa-participation-a-la-deforestation-en-amazonie_6071773_3244.html"
+      }
+    ]
+  },
+  {
+    "brand": "Cargill",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Cargill, géant agroalimentaire américain, a été qualifié par certaines ONG de \"pire entreprise que vous n’ayez jamais connue\" en raison de son impact environnemental. L’entreprise est l’un des plus gros négociants de soja et de boeuf au monde, et ses pratiques sont accusées d’alimenter la déforestation en Amazonie et dans le Cerrado brésilien. Des enquêtes ont montré que Cargill se procure du soja cultivé sur des terres déboisées illégalement et de la viande issue d’élevages ayant grignoté la forêt tropicale. En outre, Cargill a fait face à des scandales de pollution de l’eau (rejets d’effluents d’abattoirs) et de destruction d’habitats côtiers (palmiers à huile en Indonésie). Bien que la firme affiche des engagements de \"zéro déforestation\", les ONG estiment que ces promesses sont peu tenues et que Cargill demeure un acteur majeur de la crise environnementale mondiale.",
+    "articles": [
+      {
+        "label": "Cargill, au cœur de la déforestation en Amazonie",
+        "url": "https://www.theguardian.com/environment/2019/jul/25/cargill-deforestation-soya-south-america-greenpeace-report"
+      }
+    ]
+  },
+  {
+    "brand": "Caterpillar",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Le fabricant américain d’engins de chantier Caterpillar est visé par des critiques pour l’usage de ses bulldozers dans des zones de conflit. Ses machines, robustes et facilement militarisables, ont été utilisées par l’armée israélienne pour détruire des habitations palestiniennes dans les Territoires occupés – un cas emblématique étant la mort de l’activiste Rachel Corrie en 2003, écrasée par un Caterpillar lors d’une manifestation à Gaza. Caterpillar a également fourni du matériel au Corps des Marines américains (des bulldozers blindés) impliqué dans des offensives en Irak. Des associations de défense des droits humains accusent l’entreprise de ne pas contrôler l’usage final de ses produits et d’être ainsi complice de destructions et d’exactions en situation d’occupation ou de conflit. Caterpillar affirme de son côté vendre conformément aux lois et ne pas pouvoir s’ingérer dans les politiques des utilisateurs de ses engins.",
+    "articles": [
+      {
+        "label": "Les bulldozers Caterpillar dans le conflit israélo-palestinien",
+        "url": "https://www.reuters.com/article/us-israel-palestinians-bulldozers-idUSTRE50M4D520090123"
+      }
+    ]
+  },
+  {
+    "brand": "Chevron",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "La major pétrolière Chevron s’est retrouvée au centre de plusieurs scandales environnementaux retentissants. Elle a hérité du \"procès de l’Amazonie\" suite au rachat de Texaco : pendant des décennies, Texaco a déversé des milliards de litres de déchets pétroliers dans la forêt amazonienne équatorienne, polluant des sols et rivières et affectant la santé de communautés indigènes. En 2011, Chevron a été condamnée par un tribunal équatorien à payer 9,5 milliards de dollars de dommages, mais la compagnie a tout fait pour échapper à ce verdict et n’a pas indemnisé les victimes à ce jour. Par ailleurs, Chevron a été responsable d’une marée noire en 2011 au large du Brésil (champ de Frade) et a été accusée de manquements dans le contrôle de ses installations (fuites de gaz, torchères polluantes). Enfin, comme d’autres pétroliers, Chevron est critiquée pour avoir financé par le passé des lobbyings climato-sceptiques et pour continuer d’investir lourdement dans les combustibles fossiles, contribuant à la crise climatique.",
+    "articles": [
+      {
+        "label": "Pollution de l'Amazonie (affaire Chevron-Texaco en Équateur)",
+        "url": "https://www.bbc.com/news/world-latin-america-12305154"
+      }
+    ]
+  },
+  {
+    "brand": "Chiquita Brands International",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Le géant de la banane Chiquita s’est retrouvé impliqué dans le conflit armé colombien. Dans les années 1990 et 2000, sa filiale locale a versé des millions de dollars à des groupes paramilitaires d’extrême droite (AUC), soi-disant pour assurer la \"sécurité\" de ses plantations, mais ces milices ont commis des massacres et exactions contre des civils. En 2007, Chiquita a plaidé coupable aux États-Unis pour financement d’organisation terroriste et a dû payer une amende de 25 millions USD. L’affaire a choqué en révélant comment une multinationale agricole a sciemment financé des acteurs d’un conflit armé. Des familles de victimes colombiennes ont tenté de poursuivre Chiquita en justice pour complicité de violations des droits de l’homme. L’image de Chiquita, jadis associée aux \"républiques bananières\", demeure entachée par ce scandale liant affaires et violence armée.",
+    "articles": [
+      {
+        "label": "Chiquita condamnée pour paiements aux paramilitaires en Colombie",
+        "url": "https://www.reuters.com/article/us-chiquita-colombia-lawsuit-idUSKCN1GD6O4"
+      }
+    ]
+  },
+  {
+    "brand": "Coca-Cola",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Coca-Cola est régulièrement montrée du doigt pour son impact environnemental. La firme est l’un des plus gros producteurs de bouteilles plastiques au monde et, pour la 5e année consécutive en 2022, elle a été désignée \"plus grand pollueur plastique mondial\" lors d’audits de déchets (ses emballages abandonnés sont ceux retrouvés le plus fréquemment dans la nature). En outre, Coca-Cola a été accusée de surexploiter les ressources en eau douce : en Inde, des usines d’embouteillage de Coca-Cola ont été fermées sous la pression locale après avoir asséché et contaminé des nappes phréatiques. L’entreprise a promis d’améliorer le recyclage (objectif \"Un monde sans déchets\") et de gérer durablement l’eau, mais beaucoup considèrent ses efforts insuffisants face aux dommages causés par la pollution plastique et la pression sur l’eau.",
+    "articles": [
+      {
+        "label": "Coca-Cola épinglé comme plus gros pollueur plastique",
+        "url": "https://www.theguardian.com/environment/2021/oct/25/coca-cola-named-worlds-top-plastic-polluter-fourth-year-running"
+      }
+    ]
+  },
+  {
+    "brand": "Dassault Aviation",
+    "parent": "Groupe Dassault",
+    "sector": "Conflits internationaux",
+    "summary": "Le constructeur français Dassault Aviation vend ses avions de combat Rafale et Mirage à de nombreux États, y compris des pays impliqués dans des conflits controversés. L’entreprise a notamment conclu de gros contrats avec l’Égypte, l’Inde, le Qatar ou encore les Émirats arabes unis. En 2011, des Rafale Dassault ont été utilisés par l’armée de l’air française en Libye. Surtout, la vente de Mirage 2000-9 aux Émirats et potentiellement de Rafale à l’Arabie saoudite soulève la question de leur usage dans la guerre au Yémen – un conflit marqué par des bombardements meurtriers sur des civils. Bien qu’aucune sanction n’ait visé Dassault directement, les ONG appellent la France à cesser ces exportations d’armes vers les belligérants du Yémen. Par ailleurs, en interne, Dassault a été éclaboussé par une affaire de corruption (révélée en Inde sur le contrat Rafale), montrant les zones grises des contrats d’armement dans un contexte international tendu.",
+    "articles": [
+      {
+        "label": "Vente des avions de combat Dassault aux pays en guerre (controverses)",
+        "url": "https://www.france24.com/fr/20190611-les-rafale-dassault-emirats-arabie-yemen-ventes-armes-france-diplomatie"
+      }
+    ]
+  },
+  {
+    "brand": "Drax Group",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Drax Group, exploitant de la plus grande centrale électrique du Royaume-Uni, est accusé de greenwashing et de dommages écologiques. L’entreprise a converti sa centrale du Yorkshire au bois (pellets) au lieu du charbon, obtenant d’importantes subventions \"vertes\" publiques. Or des enquêtes (BBC, Greenpeace) ont révélé que Drax importe des granulés de bois provenant de forêts anciennes au Canada et aux États-Unis, contribuant à leur dégradation. De plus, la combustion de biomasse émet du CO₂ en grande quantité. En 2022, un rapport a montré que Drax avait coupé des arbres vivants dans des forêts primaires au Canada en contradiction avec son discours de valorisation de déchets de bois. Ce scandale a terni la réputation de Drax, que certains qualifient de \"faux-solutions\" climatiques, et rouvre le débat sur la durabilité de la biomasse forestière.",
+    "articles": [
+      {
+        "label": "Drax (biomasse) accusé de déforester des forêts primaires",
+        "url": "https://www.theguardian.com/environment/2022/oct/03/drax-biomass-wood-burning-power-station-north-america"
+      }
+    ]
+  },
+  {
+    "brand": "Duke Energy",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Duke Energy, principal fournisseur d’électricité aux États-Unis (Caroline du Nord et Sud notamment), a causé d’importants dommages environnementaux avec ses résidus de combustion du charbon. En 2014, une canalisation défectueuse dans une de ses centrales a provoqué une fuite massive de cendres de charbon toxiques dans le Dan River (Caroline du Nord). Environ 39 000 tonnes de cendres et 27 millions de gallons d’eaux usées chargées de métaux lourds (arsenic, sélénium, mercure) se sont déversés, polluant la rivière sur des dizaines de kilomètres. Duke Energy a plaidé coupable en 2015 pour des infractions à la loi sur l’eau et a payé plus de 100 millions de dollars d’amende. L’entreprise est critiquée pour la gestion de ses 32 bassins de décantation de cendres, dont plusieurs menacent l’environnement et les nappes phréatiques. Sous la pression réglementaire et citoyenne, Duke a dû engager des travaux d’excavation et de confinement de ces déchets industriels.",
+    "articles": [
+      {
+        "label": "Fuite toxique de cendres de charbon (Duke Energy, 2014)",
+        "url": "https://www.npr.org/2014/02/09/274363461/the-story-behind-the-n-c-coal-ash-spill"
+      }
+    ]
+  },
+  {
+    "brand": "DuPont",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le chimiste DuPont est au cœur d’un scandale sanitaire et environnemental lié aux \"Forever Chemicals\". Pendant des décennies, DuPont a produit le PFOA (acide perfluorooctanoïque), composant utilisé dans le Teflon, tout en sachant qu’il s’accumulait dans l’environnement et le sang humain. La contamination autour de son usine de Parkersburg (Virginie-Occidentale) a causé des cancers et malformations, un scandale retracé dans le film _Dark Waters_. DuPont a dû verser plus de 670 millions USD pour indemniser des victimes en 2017. Par ailleurs, la société a été mise en cause pour son ex-filiale Chemours qui continue à polluer les eaux avec des PFAS (autres perfluorés):contentReference[oaicite:19]{index=19}. Ces révélations ont entamé la crédibilité de DuPont, qui a scindé ses activités litigieuses (Chemours) mais reste accusé d’avoir caché la dangerosité de ses produits et d’avoir lourdement pollué au mépris de la santé publique.",
+    "articles": [
+      {
+        "label": "DuPont confronté aux ravages des \u00ab forever chemicals \u00bb (Teflon, PFAS)",
+        "url": "https://www.theguardian.com/environment/2023/jun/22/3m-settlement-municipal-water-systems-pfas-contamination"
+      }
+    ]
+  },
+  {
+    "brand": "Enbridge",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "La compagnie canadienne Enbridge, spécialisée dans les oléoducs, s’est rendue responsable en 2010 de l’une des pires marées noires terrestres des États-Unis. Un de ses pipelines (Line 6B) s’est rompu prés de Kalamazoo (Michigan), déversant plus de 20 000 barils de pétrole lourd dilué (bitume des sables bitumineux) dans la rivière Kalamazoo. Le nettoyage a duré des années et coûté plus d’un milliard de dollars, car le brut lourd s’est avéré difficile à récupérer. Le régulateur américain (NTSB) a fustigé Enbridge pour ses manquements de maintenance et de réaction tardive (l’alerte a été ignorée pendant 17 heures). Enbridge a payé des amendes et dédommagements fédéraux (177 millions $ d’accord transactionnel en 2016) et promis des améliorations de sécurité. Cependant, l’entreprise poursuit des projets controversés (Line 3, Line 5) contestés par des peuples autochtones et écolos, inquiets d’un nouveau \"Kalamazoo\".",
+    "articles": [
+      {
+        "label": "Rupture d’oléoduc Enbridge et pollution de la rivière Kalamazoo (2010)",
+        "url": "https://www.nytimes.com/2012/07/11/us/report-says-enbridge-kalamazoo-spill-was-due-to-neglect.html"
+      }
+    ]
+  },
+  {
+    "brand": "Ericsson",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "L’entreprise suédoise Ericsson, leader des équipements télécom, a reconnu en 2022 que certaines de ses filiales avaient pu verser des pots-de-vin à des groupes armés en Irak. Une enquête interne a révélé qu’entre 2011 et 2019, Ericsson a payé des intermédiaires pour acheminer son matériel dans des zones contrôlées par l’organisation État islamique (EI) au plus fort de la guerre d’Irak et de Syrie. Des versements suspects pourraient ainsi avoir fini dans les caisses de l’EI, constituant une violation des sanctions et une complicité de fait avec un groupe terroriste. L’affaire, révélée par des fuites, a fait chuter l’action Ericsson et l’entreprise fait l’objet d’enquêtes des autorités américaines. Ericsson a admis des \"lacunes graves\" et s’est engagée à coopérer avec la justice, tandis que ce scandale entache gravement son image d’intégrité dans les affaires internationales.",
+    "articles": [
+      {
+        "label": "Ericsson admet des paiements suspects en Irak (possible financement de l’EI)",
+        "url": "https://www.reuters.com/business/ericsson-says-iraq-probe-identified-payments-possible-terrorism-financing-2022-02-15/"
+      }
+    ]
+  },
+  {
+    "brand": "ExxonMobil",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "ExxonMobil est accusée d’avoir longtemps dissimulé et semé le doute sur le changement climatique. Des documents internes ont révélé que les scientifiques d’Exxon avaient conscience dès les années 1970 des risques graves du réchauffement causé par les combustibles fossiles, mais la compagnie a ensuite financé des campagnes de désinformation pour contester le consensus climatique:contentReference[oaicite:20]{index=20}:contentReference[oaicite:21]{index=21}. Par ailleurs, Exxon a causé d’importantes pollutions : la marée noire de l’Exxon Valdez en 1989 en Alaska (40 millions de litres de pétrole brut) a dévasté des écosystèmes côtiers, et la compagnie a payé plus d’un milliard de dollars en nettoyage et indemnisations. Auprès des ONG, ExxonMobil reste le symbole d’une industrie qui a sciemment sacrifié l’environnement pour le profit, retardant l’action climatique mondiale.",
+    "articles": [
+      {
+        "label": "Exxon savait pour le climat mais a semé le doute (Enquête)",
+        "url": "https://www.theguardian.com/environment/2015/jul/08/exxon-climate-change-1981-climate-denier-funding"
+      }
+    ]
+  },
+  {
+    "brand": "Facebook",
+    "parent": "Meta Platforms",
+    "sector": "Conflits internationaux",
+    "summary": "Facebook (aujourd’hui Meta) a été accusé d’avoir servi de plateforme à l’incitation à la violence lors du génocide des Rohingyas en Birmanie. Entre 2016 et 2017, l’armée et des extrémistes bouddhistes birmans ont diffusé massivement sur Facebook des messages de haine et de fausses rumeurs déshumanisant la minorité musulmane Rohingya, alimentant les massacres et l’exode de plus de 700 000 personnes. En 2018, des enquêteurs de l’ONU ont jugé que le rôle de Facebook avait été \"déterminant\" dans la propagation du discours de haine. L’entreprise a admis avoir agi trop lentement pour modérer ces contenus. Des dérives similaires ont été constatées dans d’autres conflits, Facebook étant utilisé pour attiser violences et lynchages (p. ex. au Sri Lanka, en Éthiopie). Meta a depuis renforcé ses équipes de modération locale, mais fait face à des plaintes de victimes rohingyas réclamant réparation pour sa \"complicité par négligence\" dans les atrocités commises.",
+    "articles": [
+      {
+        "label": "Facebook dans la propagation de la haine anti-Rohingyas (ONU)",
+        "url": "https://www.reuters.com/article/us-myanmar-rohingya-facebook-idUSKCN1GO2PN"
+      }
+    ]
+  },
+  {
+    "brand": "Fiat Chrysler Automobiles (FCA)",
+    "parent": "Stellantis",
+    "sector": "Environnement",
+    "summary": "Fiat Chrysler (aujourd’hui fondu dans Stellantis) a été impliqué dans le \"Dieselgate\" touchant l’industrie automobile. En 2017, l’Agence américaine de protection de l’environnement a accusé FCA d’avoir installé sur 104 000 Jeep et Dodge équipés de moteurs diesel un logiciel truqueur faussant les tests d’émissions polluantes. Ces véhicules émettaient en réalité des niveaux de NOx bien supérieurs aux normes en usage normal. En 2019, Fiat Chrysler a accepté de payer environ 800 millions de dollars aux États-Unis (amendes, rappels et indemnisations) pour clore les poursuites liées à cette fraude. Des enquêtes similaires ont eu lieu en Europe. Ce scandale a mis en lumière la tromperie environnementale de plusieurs constructeurs – après Volkswagen – et a entaché la réputation de FCA, soulignant un manque de transparence et un contournement des règles anti-pollution pour améliorer artificiellement les performances environnementales affichées.",
+    "articles": [
+      {
+        "label": "Dieselgate : entente et fraude chez Fiat Chrysler",
+        "url": "https://www.reuters.com/article/us-fiat-chrysler-emissions-eu-idUSKBN26K1XU"
+      }
+    ]
+  },
+  {
+    "brand": "Formosa Plastics",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le groupe taïwanais Formosa Plastics a provoqué un grave scandale environnemental au Vietnam en 2016. Sa filiale sidérurgique Formosa Ha Tinh Steel a rejeté illégalement des effluents chimiques en mer, entraînant une mortalité massive de poissons le long de 200 km de côtes au centre du Vietnam. Cette catastrophe écologique a ravagé la pêche locale et suscité des manifestations d’ampleur dans le pays. Formosa a mis plusieurs semaines à reconnaître sa responsabilité et a présenté des excuses publiques, acceptant de verser 500 millions de dollars d’indemnisation au gouvernement vietnamien. L’opinion publique, elle, est restée choquée par la légèreté de Formosa vis-à-vis de ses rejets toxiques et par l’impact durable sur l’environnement marin et les moyens de subsistance de milliers de pêcheurs vietnamiens.",
+    "articles": [
+      {
+        "label": "Déversement toxique de Formosa au Vietnam (2016)",
+        "url": "https://www.reuters.com/article/us-vietnam-environment-formosa-idUSKCN0ZG2if"
+      }
+    ]
+  },
+  {
+    "brand": "Freeport-McMoRan",
+    "parent": "Identique",
+    "sector": "Environnement, Conflits internationaux",
+    "summary": "Freeport-McMoRan exploite la gigantesque mine de Grasberg en Indonésie (région de Papouasie), source de controverses à la fois environnementales et éthiques. Environnementalement, la mine (cuivre et or) déverse chaque jour d’énormes quantités de déchets miniers dans les rivières et vallées avoisinantes, détruisant des forêts et polluant sur des centaines de km² – une pratique de \"déversement en milieu naturel\" extrêmement rare. Parallèlement, Freeport a longtemps entretenu des relations étroites avec l’appareil militaire indonésien pour protéger le site. L’armée a été accusée d’exactions contre des indigènes papous réclamant une plus juste redistribution des richesses ou l’indépendance; Freeport aurait financé des unités militaires locales pour assurer la sécurité, ce qui soulève la question de sa complicité indirecte dans la répression en zone de conflit. L’entreprise, qui a versé d’importantes royalties à Jakarta, reste un acteur controversé, symbolisant l’exploitation économique et la fragilisation d’une région politiquement sensible.",
+    "articles": [
+      {
+        "label": "Pollution en Papouasie et liens de Freeport avec l'armée indonésienne",
+        "url": "https://www.mongabay.com/2017/02/indonesian-court-denies-attempt-to-stop-environmental-assessment-of-freeport/"
+      }
+    ]
+  },
+  {
+    "brand": "Gazprom",
+    "parent": "État russe",
+    "sector": "Conflits internationaux",
+    "summary": "Gazprom, le géant gazier russe, a été qualifié d’\"arme énergétique\" de la Russie dans ses conflits géopolitiques. En 2022, suite à l’invasion de l’Ukraine, Gazprom a drastiquement réduit puis coupé ses livraisons de gaz naturel vers l’Europe, en représailles aux sanctions occidentales, plongeant plusieurs pays dans une crise énergétique. L’UE a accusé Moscou d’utiliser Gazprom pour faire pression politiquement – par exemple en stoppant le gazoduc Nord Stream. Par ailleurs, Gazprom a historiquement conclu des partenariats stratégiques avec des régimes autoritaires (Iran, Syrie) et finance des équipes sportives ou des médias à l’étranger pour gagner de l’influence. S’il ne s’agit pas d’un scandale au sens de violation de loi, Gazprom est au centre des tensions internationales: son monopole sur le gaz russe lui permet de soutenir la politique du Kremlin, y compris dans des contextes de guerre, d’où sa réputation de bras armé énergétique dans les conflits impliquant la Russie.",
+    "articles": [
+      {
+        "label": "Gazprom, \u00ab arme énergétique \u00bb de Moscou dans la guerre en Ukraine",
+        "url": "https://www.reuters.com/business/energy/russia-widens-gas-supply-cuts-pressure-europe-2022-07-25/"
+      }
+    ]
+  },
+  {
+    "brand": "General Dynamics",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "General Dynamics, l’un des plus grands fournisseurs d’armes du Pentagone, est impliqué dans divers conflits via ses ventes d’armements. La firme produit entre autres des chars (Abrams), des véhicules blindés, des systèmes d’artillerie et des sous-marins. Au Yémen, des chars Abrams saoudiens, co-produits et entretenus par General Dynamics, ont été utilisés dans la guerre, y compris lors d’attaques terrestres controversées. L’entreprise a aussi été critiquée pour la vente de bombes à fragmentation Mk-80 (via sa filiale canadienne) à l’Arabie saoudite, armes dont l’utilisation au Yémen a causé des victimes civiles. Par ailleurs, en 2018, des employés de sa division IT (CSRA) ont protesté contre un contrat potentiel pour l’administration migratoire américaine, refusant que leur travail contribue à des actions jugées contraires aux droits humains. General Dynamics incarne ainsi la problématique des entreprises d’armement occidentales dont l’export soutient des conflits meurtriers, soulevant des questions éthiques.",
+    "articles": [
+      {
+        "label": "General Dynamics face aux critiques pour ses ventes d’armes (Yémen)",
+        "url": "https://www.theguardian.com/world/2016/sep/05/yemen-children-bombing-us-cluster-munitions-saudi-arabia"
+      }
+    ]
+  },
+  {
+    "brand": "Glencore",
+    "parent": "Identique",
+    "sector": "Environnement, Conflits internationaux",
+    "summary": "Le négociant de matières premières Glencore est entouré de controverses de grande ampleur. Sur le plan environnemental, ses activités minières et pétrolières ont engendré pollutions et déforestation (mine de charbon en Colombie, extractions de cuivre en RD Congo avec contamination des eaux). Sur le plan des conflits, Glencore a été impliqué dans des affaires de corruption touchant des régimes instables: en RDC, il a passé des accords opaques avec Dan Gertler, homme d’affaires lié à l’ancien président Kabila, pour s’assurer des concessions minières, ce qui a alimenté la corruption dans un pays en proie à des conflits armés liés aux ressources. De plus, certaines mines de Glencore en zones reculées ont été accusées de recourir à des milices privées ou d’exacerber les tensions locales. En 2022, Glencore a plaidé coupable dans plusieurs pays (USA, UK) pour faits de corruption et de manipulation de marché, acceptant de payer plus d’un milliard de dollars d’amendes. A la croisée de l’exploitation des ressources et de la realpolitik, Glencore incarne les dérives d’un commerce mondialisé peu scrupuleux des conséquences sociales et écologiques.",
+    "articles": [
+      {
+        "label": "Enquête sur Glencore en RDC (corruption et exploitation minière)",
+        "url": "https://www.reuters.com/article/us-congo-mining-glencore-insight-idUSKBN1JM20R"
+      }
+    ]
+  },
+  {
+    "brand": "G4S",
+    "parent": "Allied Universal",
+    "sector": "Conflits internationaux",
+    "summary": "La société de sécurité privée G4S a été mise en cause pour ses activités dans des zones de conflit et d’occupation. Au Moyen-Orient, sa filiale israélienne a fourni des services de surveillance et du personnel pour des prisons où sont détenus des Palestiniens, ainsi que pour des checkpoints et colonies en Cisjordanie occupée:contentReference[oaicite:22]{index=22}:contentReference[oaicite:23]{index=23}. Des ONG et l’ONU ont dénoncé la complicité de G4S dans les abus commis contre des prisonniers (y compris des mineurs) et l’ont appelée à cesser ces contrats. Face à la pression internationale et à la campagne BDS, G4S a annoncé en 2016 son retrait du marché israélien. Par ailleurs, G4S a été critiquée pour la conduite de ses contractuels dans des conflits (ex : en Irak, des sous-traitants de G4S furent accusés de mauvais traitements de détenus). L’image de G4S, longtemps premier groupe de sécurité au monde, s’est ainsi ternie, la plaçant au cœur du débat sur la privatisation de la guerre et la responsabilité des entreprises.",
+    "articles": [
+      {
+        "label": "G4S accusé de complicité dans la détention de Palestiniens (prisons israéliennes)",
+        "url": "https://www.theguardian.com/world/2014/jun/04/desmond-tutu-g4s-israel-prisons-hunger-strikers"
+      }
+    ]
+  },
+  {
+    "brand": "Google",
+    "parent": "Alphabet Inc.",
+    "sector": "Conflits internationaux",
+    "summary": "Google a suscité la controverse en 2018 lorsqu’il a été révélé que la société collaborait avec le Pentagone sur le \"Project Maven\" – un programme d’Intelligence Artificielle visant à analyser des images de drones militaires pour améliorer le ciblage. Cette implication dans la recherche militaire (potentiellement destinée à des frappes létales) a provoqué une fronde interne : plus de 4 000 employés ont signé une pétition s’opposant à l’usage de leur travail à des fins guerrières, et quelques-uns ont démissionné. Face à la pression, Google a annoncé ne pas renouveler le contrat Maven et a publié des principes éthiques encadrant ses projets d’IA (excluant le développement d’armes). Néanmoins, l’épisode a mis en lumière le dilemme auquel font face les entreprises tech attirées par les contrats de défense lucratifs mais soucieuses de leur image, et a ouvert le débat sur la responsabilité des acteurs technologiques dans les conflits armés modernes.",
+    "articles": [
+      {
+        "label": "Polémique du Project Maven : quand Google aide les drones militaires",
+        "url": "https://www.reuters.com/article/us-google-defense/google-ceo-defends-pentagon-contracts-as-employees-quit-2018-05-22/"
+      }
+    ]
+  },
+  {
+    "brand": "Halliburton",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "La société américaine Halliburton, spécialisée dans les services pétroliers, a été au cœur des polémiques sur la \"privatisation\" de la guerre d’Irak. Anciennement dirigée par Dick Cheney (vice-président des États-Unis de 2001 à 2009), Halliburton a obtenu dès 2003 d’immenses contrats sans appel d’offres pour soutenir l’armée américaine en Irak (via sa filiale KBR) – construction de bases, logistique, restauration… Ces contrats, d’une valeur de plusieurs milliards de dollars, ont été entachés d’accusations de favoritisme politique, de surfacturation et de mauvaise gestion des fonds publics. En 2007, une enquête du Congrès a relevé des surcoûts et fraudes de la part de KBR/Halliburton (ex : facturation de repas non servis). Halliburton a également été mise en cause pour des pollutions sur les bases (\"burn pits\"), affectant la santé des soldats. Bien qu’elle nie tout traitement de faveur, Halliburton reste pour beaucoup le symbole de l’opportunisme d’entreprises profitant de la guerre et proches du pouvoir.",
+    "articles": [
+      {
+        "label": "Halliburton, grand bénéficiaire controversé de la guerre d'Irak",
+        "url": "https://www.theguardian.com/business/2004/feb/06/iraq.world"
+      }
+    ]
+  },
+  {
+    "brand": "H&M",
+    "parent": "H&M Group",
+    "sector": "Environnement",
+    "summary": "L’enseigne suédoise de mode H&M est régulièrement critiquée pour son empreinte écologique, emblématique du \"fast fashion\". En 2021, l’Autorité norvégienne de la consommation a épinglé H&M pour greenwashing, estimant trompeuse sa communication sur sa ligne \"Conscious\" présentée comme durable alors que les informations fournies étaient insuffisantes. Par ailleurs, des enquêtes ont relié H&M à la pollution des eaux par les teintureries textiles en Asie (Chine, Bangladesh), et la marque fait partie des principaux utilisateurs de polyester, une fibre synthétique issue du pétrole qui relache des microplastiques. Bien que H&M se soit engagée à utiliser des matières plus durables et à recycler les vêtements, la surproduction de millions de pièces à bas prix chaque année est jugée incompatible avec la préservation de l’environnement. H&M doit ainsi faire face à la pression croissante des consommateurs et régulateurs pour vérifier la sincérité de ses allégations écoresponsables.",
+    "articles": [
+      {
+        "label": "H&M accusé de greenwashing sur sa collection \u201cConscious\u201d",
+        "url": "https://www.bbc.com/news/business-61948240"
+      }
+    ]
+  },
+  {
+    "brand": "Heckler & Koch",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Le fabricant allemand d’armes légères Heckler & Koch (H&K) a été condamné en 2019 pour des exportations illégales de fusils d’assaut G36 vers le Mexique. Entre 2006 et 2009, H&K a vendu des milliers d’armes à la police mexicaine, alors même que certaines provinces – celles où sévissent les cartels de la drogue – étaient interdites d’export par le gouvernement allemand en raison de violations des droits humains. Une partie de ces fusils est ensuite apparue sur des scènes de crimes (ex : probable usage lors de la disparition des 43 étudiants d’Ayotzinapa). Deux ex-salariés de H&K ont été reconnus coupables, et l’entreprise a dû payer une amende, le tribunal jugeant qu’elle avait contourné la loi en dissimulant la destination finale. Ce scandale a entaché H&K, longtemps réputé fournisseur de la Bundeswehr, et relancé le débat en Allemagne sur le contrôle strict des exportations d’armes vers des zones de conflit ou de violence chronique.",
+    "articles": [
+      {
+        "label": "Procès Heckler & Koch : exportations illégales de fusils vers le Mexique",
+        "url": "https://www.bbc.com/news/world-latin-america-47074207"
+      }
+    ]
+  },
+  {
+    "brand": "HSBC",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "La banque HSBC s’est posée en championne de la finance verte dans sa publicité, mais a été rappelée à l’ordre pour greenwashing. En 2022, l’Autorité britannique de la publicité (ASA) a interdit deux annonces d’HSBC qui mettaient en avant ses financements de projets écologiques sans mentionner que la banque continue d’investir massivement dans les énergies fossiles:contentReference[oaicite:24]{index=24}:contentReference[oaicite:25]{index=25}. L’ASA a jugé ces pubs trompeuses, car HSBC avait alloué 130 milliards $ au climat mais parallèlement plus de 100 milliards aux hydrocarbures depuis 2015. Par ailleurs, HSBC fait partie des plus gros financeurs mondiaux de déforestation indirecte : via des prêts à des producteurs d’huile de palme controversés (cas en 2018) ou à des négociants de soja au Brésil. Sous la pression, HSBC a annoncé qu’elle ne financerait plus de nouveaux champs pétroliers ou gaziers (décision fin 2022). Néanmoins, son engagement climatique reste mis en doute par les ONG tant que son portefeuille d’actifs \"bruns\" demeure important.",
+    "articles": [
+      {
+        "label": "Publicités écologiques d'HSBC jugées trompeuses (ASA, 2022)",
+        "url": "https://www.theguardian.com/business/2022/oct/19/hsbc-ads-banned-for-greenwashing-over-failure-to-mention-fossil-fuel-investment"
+      }
+    ]
+  },
+  {
+    "brand": "Huawei",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Le champion chinois des télécoms Huawei a été mis en cause pour sa participation à l’appareil de surveillance de l’État chinois, notamment au Xinjiang où Pékin est accusé de persécuter la minorité ouïghoure. Fin 2020, des documents internes ont fuité montrant que Huawei aurait collaboré à des projets de reconnaissance faciale capables d’alerter sur la détection de visages ouïghours:contentReference[oaicite:26]{index=26}. Huawei a nié tout développement de fonctionnalité ethnique, mais l’enquête a renforcé les soupçons. Par ailleurs, en 2019, sa directrice financière a été arrêtée au Canada pour violation présumée des sanctions américaines contre l’Iran, illustrant les liens troubles entre Huawei et certains régimes sous embargo. Plusieurs pays occidentaux ont banni Huawei de leurs réseaux 5G par crainte de cyberespionnage. Ces éléments font de Huawei un acteur controversé, soupçonné de contribuer aux outils de surveillance d’un État autoritaire et de bafouer les droits humains dans le cadre de conflits intérieurs en Chine.",
+    "articles": [
+      {
+        "label": "Huawei lié à la surveillance des Ouïghours au Xinjiang",
+        "url": "https://www.theguardian.com/technology/2020/dec/14/documents-link-huawei-to-uyghur-surveillance-projects-report-claims"
+      }
+    ]
+  },
+  {
+    "brand": "Ikea",
+    "parent": "Ingka Group",
+    "sector": "Environnement",
+    "summary": "Ikea, géant mondial de l’ameublement, a vu son image écoresponsable ternie par des révélations sur son approvisionnement en bois. En 2020-2021, des ONG ont accusé Ikea d’utiliser du bois issu de forêts anciennes protégées d’Europe de l’Est. En Ukraine et en Russie, du bois coupé illégalement dans des réserves naturelles (y compris via des abus de permis sanitaires) se serait retrouvé dans les produits Ikea. L’enseigne a nié tout manquement intentionnel mais a banni quelques fournisseurs incriminés. Par le passé, Ikea avait déjà été épinglée en Roumanie pour des pratiques similaires. Ces scandales soulignent la difficulté pour Ikea de contrôler l’origine du bois de ses 9 000 produits. Par ailleurs, la surconsommation de meubles bon marché, renouvelés fréquemment, est critiquée pour son impact environnemental global. Ikea s’est engagée à n’utiliser que du bois certifié d’ici 2025 et à promouvoir l’économie circulaire (meubles d’occasion, pièces de rechange) afin de restaurer la confiance du public.",
+    "articles": [
+      {
+        "label": "Ikea utilisait du bois illégal d’Ukraine (rapport ONG 2020)",
+        "url": "https://news.mongabay.com/2020/07/ikea-illegal-wood-ukraine-carpathians/"
+      }
+    ]
+  },
+  {
+    "brand": "IOI Corporation",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le malaisien IOI est l’un des plus gros producteurs d’huile de palme et a souvent été blamé pour la déforestation en Asie du Sud-Est. En 2016, IOI s’est vu suspendre par la Table ronde pour l’huile de palme durable (RSPO) après la mise en évidence de coupes illégales de forêts tropicales et de drainage de tourbières sur ses concessions à Bornéo (Kalimantan, Indonésie). Ces pratiques ont conduit à des incendies de forêt et menacé des espèces comme l’orang-outan. La suspension RSPO d’IOI a incité de grands clients (Unilever, Kellogg’s, Mars...) à cesser temporairement de s’approvisionner auprès de lui. IOI a depuis pris des engagements de \"zéro déforestation\" et a été réintégré, mais les observateurs restent sceptiques. Le cas IOI illustre la pression exercée sur l’industrie de l’huile de palme pour qu’elle cesse de ravager les forêts tropicales, et la vigilance accrue des consommateurs et investisseurs vis-à-vis des producteurs peu vertueux.",
+    "articles": [
+      {
+        "label": "IOI suspendu pour déforestation illégale (huile de palme, 2016)",
+        "url": "https://www.reuters.com/article/us-ioi-group-palm-idUSKCN0WP1EU"
+      }
+    ]
+  },
+  {
+    "brand": "JBS",
+    "parent": "J&F Investimentos",
+    "sector": "Environnement",
+    "summary": "Le brésilien JBS, plus grand transformateur de viande au monde, est fréquemment associé à la déforestation de l’Amazonie. Des enquêtes (Greenpeace, Reporter Brasil) ont montré que JBS s’approvisionnait en bovins auprès d’éleveurs pratiquant la déforestation illégale et accaparant des terres indigènes. JBS a admis en 2020 ne pas pouvoir garantir une traçabilité \"zéro déforestation\" sur l’ensemble de sa chaîne, notamment via le problème des \"fournisseurs indirects\" (bétail transité). La société a été sanctionnée par l’État brésilien et par des investisseurs soucieux du climat. JBS est aussi un émetteur massif de gaz à effet de serre (ranching) et a été impliqué dans un scandale sanitaire (\"Carne Fraca\" sur de la viande avariée, 2017). Face aux critiques, JBS promet la déforestation zéro d’ici 2035 – un horizon jugé trop lointain par les ONG. En Europe, plusieurs supermarchés ont boycotté le boeuf lié à JBS. Le cas JBS illustre comment l’expansion de l’élevage industriel au Brésil se fait aux dépens de la forêt tropicale, au prix de controverses mondiales.",
+    "articles": [
+      {
+        "label": "JBS impliqué dans la déforestation de l’Amazonie (enquêtes)",
+        "url": "https://www.reuters.com/article/us-brazil-deforestation-cattle-idUSKBN25S5XN"
+      }
+    ]
+  },
+  {
+    "brand": "Koch Industries",
+    "parent": "Identique",
+    "sector": "Environnement",
+    "summary": "Le conglomérat américain Koch Industries, actif dans le pétrole, la chimie et les matériaux, est l’un des principaux financeurs du climato-scepticisme aux États-Unis. Dirigé par la richissime famille Koch, le groupe a investi des dizaines de millions de dollars depuis les années 1990 pour alimenter des think tanks et lobbyistes remettant en cause la science climatique ou combattant les régulations environnementales. Parallèlement, Koch a un lourd passif en pollution industrielle : en 2000, sa filiale pétrolière a plaidé coupable pour l’émission illégale de benzène toxique au Texas et payé 10 millions $ d’amende pénale; Koch a aussi dû verser 30 millions en 2001 pour plus de 300 fuites de pétrole et produits chimiques dans les rivières américaines. De tels antécédents ont valu à Koch le titre peu enviable de \"plus grand pollueur d’Amérique\" selon certains classements environnementaux. L’entreprise, farouchement opposée à la plupart des mesures anti-CO2, incarne la confrontation entre intérêts des énergies fossiles et lutte contre le changement climatique.",
+    "articles": [
+      {
+        "label": "Comment Koch Industries a financié le climato-scepticisme",
+        "url": "https://www.theguardian.com/environment/2019/mar/19/koch-industries-climate-change-denial-public-records-lawsuit"
+      }
+    ]
+  },
+  {
+    "brand": "Lafarge",
+    "parent": "Holcim",
+    "sector": "Conflits internationaux",
+    "summary": "Le cimentier français Lafarge (intégré depuis 2015 au groupe Holcim) a reconnu avoir financé des groupes armés djihadistes en Syrie. Entre 2013 et 2014, sa filiale locale a versé plusieurs millions d’euros à des intermédiaires liés notamment à l’organisation État islamique (EI) pour maintenir l’activité de sa cimenterie de Jalabiya, au nord de la Syrie, en pleine guerre civile. Ces paiements visaient à obtenir le droit de passage aux checkpoints et la protection de l’usine et des employés. En 2022, Lafarge a plaidé coupable devant la justice américaine pour \"soutien à des organisations terroristes\" et a accepté une amende de 778 millions de dollars – une première mondiale pour une entreprise. En France, Lafarge est mise en examen pour \"complicité de crimes contre l’humanité\" dans ce dossier. Ce scandale a exposé comment une multinationale a, par cupidité, pactisé avec l’EI – groupe pourtant responsable d’atrocités et visé par des sanctions – entachant durablement la réputation du cimentier.",
+    "articles": [
+      {
+        "label": "Affaire Lafarge en Syrie : financement de groupes terroristes (EI)",
+        "url": "https://www.lemonde.fr/international/article/2022/10/18/terrorisme-l-entreprise-francaise-lafarge-plaide-coupable-aux-etats-unis_6146312_3210.html"
+      }
+    ]
+  },
+  {
+    "brand": "Leroy Merlin",
+    "parent": "Association Familiale Mulliez",
+    "sector": "Conflits internationaux",
+    "summary": "Comme Auchan (du même groupe familial Mulliez), Leroy Merlin – enseigne de bricolage – a choisi de rester opérationnelle en Russie après l’attaque de l’Ukraine, suscitant des appels au boycott. En mars 2022, un de ses magasins à Kiev a été détruit par des bombardements russes. Surtout, des enquêtes ont montré que Leroy Merlin Russie a participé à des initiatives de soutien logistique à l’effort de guerre : ses camions et ses employés ont contribué à acheminer des dons de produits (outils, générateurs…) destinés aux troupes russes. L’Ukraine a accusé Leroy Merlin de \"financer les meurtres de civils ukrainiens\". Fin mars 2023, sous la pression internationale, la maison-mère Adeo a annoncé la cession de Leroy Merlin Russie, après plus d’un an de controverse. Ce retrait tardif intervient alors que l’enseigne était devenue un symbole de ces entreprises occidentales refusant de quitter la Russie malgré la guerre et les atteintes aux droits humains.",
+    "articles": [
+      {
+        "label": "Leroy Merlin critiqué pour son maintien et son rôle en Russie (guerre d’Ukraine)",
+        "url": "https://www.lemonde.fr/en/international/article/2023/03/23/french-home-improvement-retailer-leroy-merlin-to-hand-over-operations-to-russian-entity_6020374_4.html"
+      }
+    ]
+  },
+  {
+    "brand": "Lockheed Martin",
+    "parent": "Identique",
+    "sector": "Conflits internationaux",
+    "summary": "Premier contractant de défense américain, Lockheed Martin est impliqué dans la plupart des conflits armés où interviennent les États-Unis ou leurs alliés par le biais de son arsenal sophistiqué. L’entreprise fabrique notamment les missiles Javelin et HIMARS, utilisés récemment par l’Ukraine contre l’agression russe, ainsi que les chasseurs F-16, les hélicoptères Black Hawk ou les bombes guidées. Lockheed a été visée indirectement par des polémiques sur les victimes civiles causées par ces armes: par exemple, une bombe Lockheed larguée par la coalition saoudienne a tué 40 enfants dans un bus au Yémen (2018), ce qui a ravivé les critiques sur les ventes d’armes américaines à l’Arabie saoudite. Si la responsabilité juridique incombe aux utilisateurs, Lockheed Martin est régulièrement cité dans les campagnes d’ONG appelant à cesser les transferts d’armements vers les zones de guerre ou vers des régimes autoritaires. Malgré cela, la demande mondiale d’armement en hausse (guerre d’Ukraine, tensions en Asie) profite plus que jamais à Lockheed, dont le carnet de commandes atteint des niveaux records.",
+    "articles": [
+      {
+        "label": "Polémiques autour des armes Lockheed utilisées contre des civils (Yémen)",
+        "url": "https://edition.cnn.com/2018/08/17/middleeast/yemen-bus-strike-intl/index.html"
+      }
+    ]
   }
-
-
-
 ]
-
-
-
