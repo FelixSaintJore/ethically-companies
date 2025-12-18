@@ -39,6 +39,14 @@
             margin: 40px auto;
             padding: 0 20px 40px;
         }
+
+        #annuaire a:link {
+            color : #005bb5
+        }
+        #annuaire a:visited {
+            color : #005bb5
+        }
+
         .search-box, .results .card, .directory {
             background: #fff;
             border-radius: 12px;
@@ -159,7 +167,6 @@
 <body>
     <header>
         <div class="wrapper">
-            <p class="eyebrow">Prototype V0</p>
             <h1>Shop Ethically</h1>
             <p>Identifiez la maison mère d'une marque, ses controverses majeures et accédez rapidement aux sources.</p>
         </div>
@@ -263,6 +270,7 @@
             console.log("searched item : ", brand);
             document.getElementById("brandInput").value = brand;
             document.getElementById("searchBtn").click();
+            sendTracking('search', term);
         }
 
 
