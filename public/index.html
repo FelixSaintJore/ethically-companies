@@ -110,11 +110,11 @@
         }
         .card header p {
             margin: 4px 0;
-            /* color: #475069; */
-            color: #f4f6fb; /* blancs sur fond bleu */
+            color: white;
         }
         .card p {
             line-height: 1.5;
+            
         }
         .card-links-title {
             font-weight: 600;
@@ -240,10 +240,38 @@
 
             catalog.forEach((item) => {
                 const li = document.createElement('li');
-                li.innerHTML = `<strong>${item.brand}</strong> — ${item.parent} (${item.sector})`;
+                // const cleanBrand = item.brand.replace(/'/g, "\\'");
+                li.innerHTML = `<strong> <a href = "#" class="brand-link" data-brand-name="${item.brand}"> ${item.brand} </a> </strong> — ${item.parent} (${item.sector})`;
                 directoryList.appendChild(li);
             });
+        }        
+
+        document.getElementById('annuaire').addEventListener('click', (event) => {
+        // Check if the clicked element (event.target) is an anchor tag with the required class
+            if (event.target.classList.contains('brand-link')) {
+                
+                // Prevent the default anchor link behavior (i.e., prevent jumping to the top of the page)
+                // event.preventDefault(); 
+                
+                // Get the brand value from the data-brand-name attribute
+                const brandValue = event.target.dataset.brandName;
+                console.log("brand value = ", brandValue);
+                
+                // Call the search function with both values
+                searchItem(brandValue);
+            }
+        });
+        
+        
+        function searchItem (brand){
+            console.log("searched item : ", brand);
+            document.getElementById("brandInput").value = brand;
+            document.getElementById("searchBtn").click();
         }
+
+
+
+
 
         function renderResults(matches) { // affiche les résultats de la recherche
             if (!matches.length) {
