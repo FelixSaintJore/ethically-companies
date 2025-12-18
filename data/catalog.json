@@ -637,7 +637,7 @@
     "articles": [
       {
         "label": "Vente des avions de combat Dassault aux pays en guerre (controverses)",
-        "url": "https://www.france24.com/fr/20190611-les-rafale-dassault-emirats-arabie-yemen-ventes-armes-france-diplomatie"
+        "url": "https://www.lemonde.fr/idees/article/2021/12/21/la-vente-de-80-rafale-aux-emirats-arabes-unis-un-contrat-aux-multiples-retombees_6106868_3232.html"
       }
     ]
   },
@@ -649,7 +649,7 @@
     "articles": [
       {
         "label": "Drax (biomasse) accusé de déforester des forêts primaires",
-        "url": "https://www.theguardian.com/environment/2022/oct/03/drax-biomass-wood-burning-power-station-north-america"
+        "url": "https://www.courrierinternational.com/article/climatiques-bruler-du-bois-le-climat-n-aime-pas"
       }
     ]
   },
@@ -661,7 +661,7 @@
     "articles": [
       {
         "label": "Fuite toxique de cendres de charbon (Duke Energy, 2014)",
-        "url": "https://www.npr.org/2014/02/09/274363461/the-story-behind-the-n-c-coal-ash-spill"
+        "url": "https://www.desmog.com/fr/2014/02/04/duke-energy-spills-thousands-tons-coal-ash-river/"
       }
     ]
   },
@@ -685,7 +685,7 @@
     "articles": [
       {
         "label": "Rupture d’oléoduc Enbridge et pollution de la rivière Kalamazoo (2010)",
-        "url": "https://www.nytimes.com/2012/07/11/us/report-says-enbridge-kalamazoo-spill-was-due-to-neglect.html"
+        "url": "https://www.lemonde.fr/a-la-une/article/2010/07/30/4-millionsde-litres-de-petrole-dans-une-riviere-du-michigan_1393968_3208.html"
       }
     ]
   },
@@ -697,7 +697,7 @@
     "articles": [
       {
         "label": "Ericsson admet des paiements suspects en Irak (possible financement de l’EI)",
-        "url": "https://www.reuters.com/business/ericsson-says-iraq-probe-identified-payments-possible-terrorism-financing-2022-02-15/"
+        "url": "https://www.lemonde.fr/les-decodeurs/article/2022/02/27/en-irak-le-geant-des-telecoms-ericsson-soupconne-de-pots-de-vin-et-de-financement-de-l-organisation-etat-islamique_6115478_4355770.html"
       }
     ]
   },
@@ -733,7 +733,11 @@
     "articles": [
       {
         "label": "Dieselgate : entente et fraude chez Fiat Chrysler",
-        "url": "https://www.reuters.com/article/us-fiat-chrysler-emissions-eu-idUSKBN26K1XU"
+        "url": "https://www.lemonde.fr/economie/article/2021/07/13/dieselgate-fiat-chrysler-automobiles-a-son-tour-mis-en-examen-en-france-pour-tromperie_6088172_3234.html"
+      },
+      {
+        "label": "Justice Scandale du Dieselgate : un quatrième procès pour tromperie aggravée requis, cette fois visant Fiat-Chrysler",
+        "url": "https://www.liberation.fr/international/europe/scandale-du-dieselgate-un-quatrieme-proces-pour-tromperie-aggravee-requis-cette-fois-visant-fiat-chrysler-20250716_TB76EBFF3JGVDFZDLICN2IEPVY/"
       }
     ]
   },
@@ -745,7 +749,11 @@
     "articles": [
       {
         "label": "Déversement toxique de Formosa au Vietnam (2016)",
-        "url": "https://www.reuters.com/article/us-vietnam-environment-formosa-idUSKCN0ZG2if"
+        "url": "https://www.lemonde.fr/asie-pacifique/article/2016/05/05/colere-au-vietnam-apres-la-decouverte-de-millions-de-poissons-morts-sur-les-plages_4914369_3216.html"
+      },
+      {
+        "label": "Scandale écologique au Vietnam : des millions de poissons morts découverts sur les plages",
+        "url": "https://www.franceinfo.fr/monde/asie/scandale-ecologique-au-vietnam-des-millions-de-poissons-morts-decouverts-sur-les-plages_1438199.html"
       }
     ]
   },
@@ -757,7 +765,11 @@
     "articles": [
       {
         "label": "Pollution en Papouasie et liens de Freeport avec l'armée indonésienne",
-        "url": "https://www.mongabay.com/2017/02/indonesian-court-denies-attempt-to-stop-environmental-assessment-of-freeport/"
+        "url": "https://www.liberation.fr/planete/2015/11/02/les-indonesiens-nous-chassent-tels-des-animaux_1410706/"
+      },
+      {
+        "label": "Indonésie. Violences autour d’une mine d’or en Papouasie",
+        "url": "https://www.courrierinternational.com/breve/2009/07/13/violences-autour-d-une-mine-d-or-en-papouasie"
       }
     ]
   },
@@ -769,7 +781,11 @@
     "articles": [
       {
         "label": "Gazprom, \u00ab arme énergétique \u00bb de Moscou dans la guerre en Ukraine",
-        "url": "https://www.reuters.com/business/energy/russia-widens-gas-supply-cuts-pressure-europe-2022-07-25/"
+        "url": "https://www.challenges.fr/monde/avec-gazprom-poutine-dispose-d-une-arme-redoutable-contre-l-europe_803321"
+      },
+      {
+        "label": "Les déboires de Gazprom compliquent la donne pour Poutine",
+        "url": "https://www.lexpress.fr/economie/guerre-en-ukraine-les-deboires-de-gazprom-compliquent-la-donne-pour-poutine-OBK27WUNZBCOTDAG54RRMDX2ZA/"
       }
     ]
   },
@@ -781,7 +797,7 @@
     "articles": [
       {
         "label": "General Dynamics face aux critiques pour ses ventes d’armes (Yémen)",
-        "url": "https://www.theguardian.com/world/2016/sep/05/yemen-children-bombing-us-cluster-munitions-saudi-arabia"
+        "url": "https://www.amnesty.fr/controle-des-armes/actualites/contestation-publique"
       }
     ]
   },
@@ -805,7 +821,7 @@
     "articles": [
       {
         "label": "G4S accusé de complicité dans la détention de Palestiniens (prisons israéliennes)",
-        "url": "https://www.theguardian.com/world/2014/jun/04/desmond-tutu-g4s-israel-prisons-hunger-strikers"
+        "url": "https://www.theguardian.com/world/2014/jun/04/g4s-complicity-israel-abuse-child-prisoners"
       }
     ]
   },
@@ -817,7 +833,7 @@
     "articles": [
       {
         "label": "Polémique du Project Maven : quand Google aide les drones militaires",
-        "url": "https://www.reuters.com/article/us-google-defense/google-ceo-defends-pentagon-contracts-as-employees-quit-2018-05-22/"
+        "url": "https://www.lemonde.fr/pixels/article/2018/06/02/sous-la-pression-de-ses-employes-google-renonce-a-son-projet-controverse-avec-le-pentagone_6003390_4408996.html"
       }
     ]
   },
@@ -829,7 +845,7 @@
     "articles": [
       {
         "label": "Halliburton, grand bénéficiaire controversé de la guerre d'Irak",
-        "url": "https://www.theguardian.com/business/2004/feb/06/iraq.world"
+        "url": "https://www.lemonde.fr/proche-orient/article/2005/06/28/halliburton-des-surfacturations-estimees-a-plus-d-un-milliard-de-dollars_667207_3218.html"
       }
     ]
   },
@@ -841,7 +857,7 @@
     "articles": [
       {
         "label": "H&M accusé de greenwashing sur sa collection \u201cConscious\u201d",
-        "url": "https://www.bbc.com/news/business-61948240"
+        "url": "https://www.usinenouvelle.com/article/h-m-accuse-de-greenwashing-avec-sa-collection-conscious.N872620"
       }
     ]
   },
@@ -853,7 +869,7 @@
     "articles": [
       {
         "label": "Procès Heckler & Koch : exportations illégales de fusils vers le Mexique",
-        "url": "https://www.bbc.com/news/world-latin-america-47074207"
+        "url": "https://www.bbc.com/news/world-europe-44122254"
       }
     ]
   },
@@ -864,8 +880,8 @@
     "summary": "La banque HSBC s’est posée en championne de la finance verte dans sa publicité, mais a été rappelée à l’ordre pour greenwashing. En 2022, l’Autorité britannique de la publicité (ASA) a interdit deux annonces d’HSBC qui mettaient en avant ses financements de projets écologiques sans mentionner que la banque continue d’investir massivement dans les énergies fossiles:contentReference[oaicite:24]{index=24}:contentReference[oaicite:25]{index=25}. L’ASA a jugé ces pubs trompeuses, car HSBC avait alloué 130 milliards $ au climat mais parallèlement plus de 100 milliards aux hydrocarbures depuis 2015. Par ailleurs, HSBC fait partie des plus gros financeurs mondiaux de déforestation indirecte : via des prêts à des producteurs d’huile de palme controversés (cas en 2018) ou à des négociants de soja au Brésil. Sous la pression, HSBC a annoncé qu’elle ne financerait plus de nouveaux champs pétroliers ou gaziers (décision fin 2022). Néanmoins, son engagement climatique reste mis en doute par les ONG tant que son portefeuille d’actifs \"bruns\" demeure important.",
     "articles": [
       {
-        "label": "Publicités écologiques d'HSBC jugées trompeuses (ASA, 2022)",
-        "url": "https://www.theguardian.com/business/2022/oct/19/hsbc-ads-banned-for-greenwashing-over-failure-to-mention-fossil-fuel-investment"
+        "label": "Publicités écologiques d'HSBC jugées trompeuses (2022)",
+        "url": "https://www.lesechos.fr/finance-marches/banque-assurances/greenwashing-hsbc-accuse-davoir-trompe-les-consommateurs-au-royaume-uni-1870928"
       }
     ]
   },
@@ -877,7 +893,7 @@
     "articles": [
       {
         "label": "Huawei lié à la surveillance des Ouïghours au Xinjiang",
-        "url": "https://www.theguardian.com/technology/2020/dec/14/documents-link-huawei-to-uyghur-surveillance-projects-report-claims"
+        "url": "https://www.theguardian.com/technology/2021/dec/15/documents-link-huawei-uyghur-surveillance-projects-report-claims"
       }
     ]
   },
@@ -889,7 +905,7 @@
     "articles": [
       {
         "label": "Ikea utilisait du bois illégal d’Ukraine (rapport ONG 2020)",
-        "url": "https://news.mongabay.com/2020/07/ikea-illegal-wood-ukraine-carpathians/"
+        "url": "https://www.lepoint.fr/societe/ikea-utilise-t-il-du-bois-abattu-illegalement-30-06-2020-2382511_23.php"
       }
     ]
   },
@@ -901,7 +917,7 @@
     "articles": [
       {
         "label": "IOI suspendu pour déforestation illégale (huile de palme, 2016)",
-        "url": "https://www.reuters.com/article/us-ioi-group-palm-idUSKCN0WP1EU"
+        "url": "https://www.greenpeace.fr/action-contre-ioi-lentreprise-qui-detruit-la-foret-tropicale-en-indonesie/"
       }
     ]
   },
@@ -912,8 +928,16 @@
     "summary": "Le brésilien JBS, plus grand transformateur de viande au monde, est fréquemment associé à la déforestation de l’Amazonie. Des enquêtes (Greenpeace, Reporter Brasil) ont montré que JBS s’approvisionnait en bovins auprès d’éleveurs pratiquant la déforestation illégale et accaparant des terres indigènes. JBS a admis en 2020 ne pas pouvoir garantir une traçabilité \"zéro déforestation\" sur l’ensemble de sa chaîne, notamment via le problème des \"fournisseurs indirects\" (bétail transité). La société a été sanctionnée par l’État brésilien et par des investisseurs soucieux du climat. JBS est aussi un émetteur massif de gaz à effet de serre (ranching) et a été impliqué dans un scandale sanitaire (\"Carne Fraca\" sur de la viande avariée, 2017). Face aux critiques, JBS promet la déforestation zéro d’ici 2035 – un horizon jugé trop lointain par les ONG. En Europe, plusieurs supermarchés ont boycotté le boeuf lié à JBS. Le cas JBS illustre comment l’expansion de l’élevage industriel au Brésil se fait aux dépens de la forêt tropicale, au prix de controverses mondiales.",
     "articles": [
       {
-        "label": "JBS impliqué dans la déforestation de l’Amazonie (enquêtes)",
-        "url": "https://www.reuters.com/article/us-brazil-deforestation-cattle-idUSKBN25S5XN"
+        "label": "JBS impliqué dans la déforestation de l’Amazonie",
+        "url": "https://www.lemonde.fr/international/article/2025/10/03/bresil-un-geant-de-la-viande-aurait-pratique-du-blanchiment-de-betail-eleve-sur-des-terres-deforestees-selon-greenpeace_6644273_3210.html"
+      },
+      {
+        "label": "JBS impliqué dans la déforestation de l’Amazonie",
+        "url": "https://www.greenpeace.org/luxembourg/fr/communiques-de-presse/24234/jbs-continue-a-massacrer-lamazonie-en-depit-de-ses-promesses/#:~:text=JBS%2C%20la%20plus%20grande%20entreprise,viande%20et%20des%20produits%20laitiers."
+      },
+      {
+        "label": "JBS impliqué dans la déforestation de l’Amazonie",
+        "url": "https://www.amnesty.fr/actualites/bresil-jbs-elevage-illegal-de-betail-en-amazonie"
       }
     ]
   },
@@ -925,7 +949,7 @@
     "articles": [
       {
         "label": "Comment Koch Industries a financié le climato-scepticisme",
-        "url": "https://www.theguardian.com/environment/2019/mar/19/koch-industries-climate-change-denial-public-records-lawsuit"
+        "url": "https://www.lemonde.fr/planete/article/2010/04/19/qui-finance-le-climato-scepticisme_1338486_3244.html"
       }
     ]
   },
@@ -937,19 +961,7 @@
     "articles": [
       {
         "label": "Affaire Lafarge en Syrie : financement de groupes terroristes (EI)",
-        "url": "https://www.lemonde.fr/international/article/2022/10/18/terrorisme-l-entreprise-francaise-lafarge-plaide-coupable-aux-etats-unis_6146312_3210.html"
-      }
-    ]
-  },
-  {
-    "brand": "Leroy Merlin",
-    "parent": "Association Familiale Mulliez",
-    "sector": "Conflits internationaux",
-    "summary": "Comme Auchan (du même groupe familial Mulliez), Leroy Merlin – enseigne de bricolage – a choisi de rester opérationnelle en Russie après l’attaque de l’Ukraine, suscitant des appels au boycott. En mars 2022, un de ses magasins à Kiev a été détruit par des bombardements russes. Surtout, des enquêtes ont montré que Leroy Merlin Russie a participé à des initiatives de soutien logistique à l’effort de guerre : ses camions et ses employés ont contribué à acheminer des dons de produits (outils, générateurs…) destinés aux troupes russes. L’Ukraine a accusé Leroy Merlin de \"financer les meurtres de civils ukrainiens\". Fin mars 2023, sous la pression internationale, la maison-mère Adeo a annoncé la cession de Leroy Merlin Russie, après plus d’un an de controverse. Ce retrait tardif intervient alors que l’enseigne était devenue un symbole de ces entreprises occidentales refusant de quitter la Russie malgré la guerre et les atteintes aux droits humains.",
-    "articles": [
-      {
-        "label": "Leroy Merlin critiqué pour son maintien et son rôle en Russie (guerre d’Ukraine)",
-        "url": "https://www.lemonde.fr/en/international/article/2023/03/23/french-home-improvement-retailer-leroy-merlin-to-hand-over-operations-to-russian-entity_6020374_4.html"
+        "url": "https://www.mediapart.fr/journal/france/dossier/les-errements-de-lafarge-en-syrie"
       }
     ]
   },
@@ -961,7 +973,7 @@
     "articles": [
       {
         "label": "Polémiques autour des armes Lockheed utilisées contre des civils (Yémen)",
-        "url": "https://edition.cnn.com/2018/08/17/middleeast/yemen-bus-strike-intl/index.html"
+        "url": "https://edition.cnn.com/2018/08/17/middleeast/us-saudi-yemen-bus-strike-intl"
       }
     ]
   }
